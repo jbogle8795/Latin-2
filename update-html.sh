@@ -1,6 +1,6 @@
 #!/bin/bash
 
-asciidoctor /home/joshua/github-repos/Latin-2/adoc-Files/*.adoc
+asciidoctor /home/joshua/github-repos/Latin-2/adoc-Files/
 
 mv /home/joshua/github-repos/Latin-2/adoc-Files/*.html /home/joshua/github-repos/Latin-2/Weekly-Overviews/
 
