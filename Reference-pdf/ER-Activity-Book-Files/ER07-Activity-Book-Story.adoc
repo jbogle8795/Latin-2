@@ -1,0 +1,51 @@
+//tag::Story[] 
+== *Chapter 7 – Reading Latin – What is Happening?*
+
+In agrīs labōrant multī servī, quī in vīllā habitant.
+Servus, nōmine Geta, quī est miser et dēfessus, nōn labōrat sed sōlus sub arbore sedet.
+Īrātus est quod strēnuē labōrāre necesse est.
+Tum Dāvus ad servōs occupātōs venit.
+Omnēs strēnuē labōrant quod Dāvus vīlicus est.
+Geta tamen adhūc nōn labōrat quod Dāvum nōn timet.
+Dāvus Getam cōnspicit et clāmat, "Age, ignāve!"
+Nunc labōrat Geta īrātus.
+
+Mox servī cōnspiciunt virum quī epistulās in sacculō habet.
+Vir puerōs et Cornēliam salūtat et ad eōs appropinquat.
+Servī vōcēs audīre nōn possunt quod vōcēs magnae nōn sunt.
+Geta, quī prope virum labōrat, arborem vīcīnam ascendit et vōcēs audit.
+Brevī tempore Mārcus et vir ad vīllam ambulant.
+Aliī servī revocant Getam, quī ex arbore dēscendit et ad eōs venit.
+Dāvus, "Quis est vir?" inquit. 
+"Est nūntius," respondet Geta. "Gāium Cornēlium petit."
+
+Cūr nūntius Gāium Cornēlium petit?
+Quid accidit?
+Servī sollicitī sunt.
+//end::Story[] 
+
+=== *Vocabulary*
+
+- miser, unhappy
+
+- vīlicus, overseer
+
+- Age!, Come on!
+
+- sacculō, pouch, bag
+
+- habet, (he/she) has
+
+- accidit, is happening
+
+
+=== *Questions*
+
+. Quem Getam nōn timet?
+
+. Quis epistulās in sacculō habet?
+
+. Quōs vir salūtat?
+
+. Quid Geta audit?
+

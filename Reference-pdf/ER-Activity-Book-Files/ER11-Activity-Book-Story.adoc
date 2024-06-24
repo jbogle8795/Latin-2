@@ -1,0 +1,58 @@
+//tag::Story[] 
+== *Chapter 11 – Reading Latin – Davus Tells a New Slave about Cornelius's Family*
+
+Dāvus: Ego sum Dāvus, vīlicus Gāiī Cornēliī. 
+Gāius Cornēlius est senātor Rōmānus et ad urbem saepe redit. 
+Nunc dominus noster abest, sed hīc saepe habitat Cornēlius cum Aurēliā et Mārcō et Cornēliā et Sextō. 
+Aurēlia est uxor Cornēliī.
+
+Servus: Quis est Mārcus?
+
+Dāvus: Mārcus est fīlius Cornēliī et frāter Cornēliae. 
+Cornēlia igitur est soror Mārcī.
+
+Servus: Sed quis est Sextus? 
+Estne frāter Mārcī?
+
+Dāvus: Minimē vērō! Nōn est frāter sed amīcus Mārcī. 
+Pater Sextī est amīcus Cornēliī. 
+Pater Sextī nōn iam in Italiā sed in Asiā habitat. 
+Sextus cum Mārcō in Italiā habitat.
+
+Servus: Suntne multī servī in familiā Cornēliānā?
+
+Dāvus: Est magnus numerus servōrum et ancillārum. 
+Aliī servī in vīllā labōrant, aliī in agrīs et vīneīs vīllae rūsticae.
+
+Servus: Quid faciunt ancillae?
+
+Dāvus: Vestēs līberōrum et parentum cūrant. 
+Cibum quoque parant.
+
+Servus: Ecce! Servī in vīllā rīdent. 
+Suntne laetī servī Cornēliī? Amantne dominum?
+
+Dāvus: Ita vērō! Ego sum vīlicus virī bonī.
+//end::Story[] 
+=== *Vocabulary*
+
+- familia, -ae, f., family, household
+
+- vīnea, -ae, f., vineyard
+
+- vestis, vestis, f., clothing
+
+=== *Questions*
+
+. Cuius fīlius est anmīcum Sextī?
+
+. Cuius amīcus est Mārcus?
+
+. Cuius pater in Asiā habitat?
+
+. Cūrantne ancillae vestēs Cornēliae et Mārcī Sextī?
+
+. Cuius servī sunt laetī?
+
+- Cuius...? Whose...?
+

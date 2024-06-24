@@ -1,0 +1,39 @@
+//tag::Story[] 
+== *Chapter 19 – Reading Latin – Not Quite Ready to Sleep*
+
+Ubi Cornēliī ad caupōnam advēnērunt, Aurēlia intrāre nōluit quod timuit. Fīliam tamen per iānuan dūxit. Cornēlia cēnāre valdē volēbat, sed eī nōn licuit quod māter, “Nōs hīc,” inquit, “cēnāre nōn possumus.”
+
+Mox caupō mātrem et fīliam ad cubiculum dūxit. Cubiculum sordidum erat! Lectus erat sordidsu, et erat pulvis undique. Sub alterō lecto fēlem obēsam vīdit Cornēlia. Dum caupō et māter Cornēliae dē lectō clāmābant, puella laeta ad fēlem manum extendēbat. Fēlēs tamen ē cubiculō cucurrit. Cornēlia gemuit.
+
+Aurēlia iussit caupōnem novum lectum parāre. Servī caupōnis alium lectum in cubiculum portāvērunt et Aurēlia and Cornēlia statim cubitum iērunt. Māter obdormīvit, sed fīlia vigilābat quod vōcēs et clāmōrēs procul audīvit. “Suntne vōcēs puerōrum? Vigilatne adhūc pater? Quālēs hominēs adsunt in caupōnā?” Puella cūriōsa tacitē surrēxit.
+//end::Story[] 
+
+=== Vocabulary
+
+eī nōn licuit, she was not allowed
+
+undique, adv, everywhere
+
+fēlēs, fēlis, gen. pl., fēlium, f., cat
+
+obdormiō, obdormīre, to go to sleep
+
+adsum adesse, to be present
+
+cūriōsus, -a, -um, to be present
+
+cūriōsus, -a, -um, curious
+
+surrēxit, (she) arose
+
+=== Questions
+
+Cornēlia et Aurēlia caupōnam intrāvērunt.   V   F
+
+Māter et fīlia ad cubiculum cum caupōne iērunt. V   F
+
+Fēlēs Cornēliam sub lectō vīdit.    V   F
+
+Cornēlia laeta erat quod fēlēs fūgit.   V   F
+
+Cornēlia et Aurēlia surrēxērunt quod vōcēs et clāmōrēs audīvērunt.  V   F

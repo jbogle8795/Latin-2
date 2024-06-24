@@ -1,0 +1,47 @@
+//tag::Story[] 
+== *Chapter 3 – Reading Latin – Boys and Girls in the Fields*
+
+Puerī et puellae in agrīs sunt. 
+Cornēlia dēfessa sedet et Flāvia sōla ambulat. 
+Puerī laetī sunt. Clāmant et rīdent. Hodiē Mārcus est strēnuus et in agrīs currit. 
+Sextus in mūrō stat. Mūrus est magnus, sed Sextus nōn timet.
+
+Etiam in agrīs sunt multae vaccae et magnus taurus. 
+Cornēlia nōn timet. 
+"Ecce!" clāmat. 
+"Est magnus taurus."
+
+Flāvia est puella timida. 
+Flāvia aufugit quod taurus est magnus. Brevī tempore Mārcus et Cornēlia quoque ex agrīs currunt. 
+Sed quid Sextus facit? Sextus sōlus nōn aufugit quod nōn timet. 
+Puer in magnō mūrō stat.
+//end::Story[] 
+=== *Vocabulary*
+
+- in mūrō, on a wall
+
+- stat, (he/she) stands, is standing
+
+- magnus, large, big
+
+- timet, (he/she) is afraid
+
+- vaccae, cows
+
+- taurus, (a/the) bull
+
+- timida, afraid, fearful, timid
+
+- aufugit, (he/she) runs away
+
+==== *Questions*
+
+. Quī laetī sunt? Quī...? Who...?(pl)
+
+. Quis in agrīs currit?
+
+. Quis est timida?
+
+. Quis est magnus?
+
+. Quī ex agrīs currunt?

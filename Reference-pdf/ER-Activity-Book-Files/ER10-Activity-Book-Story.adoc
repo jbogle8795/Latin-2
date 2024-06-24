@@ -1,0 +1,47 @@
+//tag::Story[] 
+== *Chapter 10 – Reading Latin – Davus*
+
+Dāvus ad iānuam vīllae stat et servōs Cornēliānōs spectat. 
+Baculum habet et omnia cūrat. Servōs iubet cistās ad raedam ferre. 
+Clāmat, "Cistās ad raedam ferte, servī!" 
+"Cistās ad raedam ferimus," respondent servī.
+
+Servum, nōmine Getam, iubet ad agrōs īre et aquam ad culīnam portāre. 
+Dāvus clāmat, "Aquam, Geta, ex agrīs ad culīnam portā!" 
+Geta gemit. "Aquam ex agrīs portāre nōlō," mussat servus, sed aquam ex agrīs petit.
+
+Raedārium, nōmine Syrum, Dāvus vetat equōs vexāre. 
+"Nōlī equōs vexāre, Syre!" clāmat. 
+"Equōs nōn vexō," respondet Syrus.
+
+Dāvus ancillās pallās et stolās in cistam pōnere iubet. 
+"Pallās et stolās in cistam pōnite!" exclāmat sollicitus vīlicus. 
+"Pallās et stolās in cistam pōnimus," respondent ancillae.
+
+Aliī servī in hortō sedent. 
+"Cūr sedētis neque labōrātis?" Dāvus īrātus clāmat. 
+"Nōlīte sedēre, scelestī servī! Labōrāte strēnuē!" 
+"Strēnuē labōrāmus," respondent servī.
+
+"Nunc omnēs strēnuē labōrātis," inquit Dāvus.
+
+"Tū quoque strēnuē labōrā!" mussant servī et ancillae.
+//end::Story[] 
+
+=== *Vocabluary*
+
+- vetō, vetāre, to forbid
+
+- mussō, mussāre, to mutter
+
+=== *Questions*
+
+. Dāvus, "Cistās ferte!" inquit. Deinde servī cistās ferunt. V F
+
+. Dāvus, "Aquam portā!" inquit. Deinde Geta aquam portat. V F
+
+. Dāvus, "Equōs vexā!" inquit. Deinde raedārius equōs vexat. V F
+
+. Dāvus, "Pallās in cistam pōnite!" inquit. Deinde ancillae pallās in cistam pōnunt. V F
+
+. Dāvus, "Nōlīte labōrāre!" inquit. Deinde servī nōn labōrant. V F

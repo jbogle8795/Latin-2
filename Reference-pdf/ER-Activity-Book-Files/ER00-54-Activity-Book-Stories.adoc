@@ -1,0 +1,1596 @@
+= Activity Book
+:toc:
+
+== Chapters 1-7
+
+//tag::Story-1[] 
+
+=== *Chapter 1 – Reading Latin – At the Country House and Farm*
+
+Quis est puella Rōmāna? 
+Puella Rōmāna est Cornēlia quae aestāte in vīllā rūsticā habitat. 
+Cornēlia est laeta quod sub arbore legit. 
+In vīllā vīcīnā habitat altera puella Rōmāna, nōmine Flāvia.
+
+Later:
+
+Cornēlia in vīllā sedet et legit. 
+Ubi est Flāvia? Etiam Flāvia in vīllā sedet. 
+Quid facit puella? 
+Flāvia scrībit dum Cornēlia legit. 
+Flāvia est laeta quod in vīllā sedet et scrībit.
+//end::Story-1[]
+
+//tag::Questions-1[] 
+
+==== *Questions*
+
+. Cūr est Cornēlia laeta?
+
+. Quis in vīllā vīcīnā habitat?
+
+. Quid facit Cornēlia in vīllā?
+
+. Quid facit Flāvia in vīllā?
+//end::Questions-1[]
+
+//tag::Story-2[] 
+
+=== *Chapter 2 – Reading Latin – Girls in the Fields I*
+
+Ecce! Sunt puellae in agrīs. Puellae sunt Flāvia et Cornēlia. 
+Flāvia et Cornēlia sunt amīcae et in agrīs saepe ambulant. 
+Sed hodiē Cornēlia currit. Brevī tempore etiam Flāvia currit. 
+Cūr puellae currunt? Currunt quod sunt vaccae quoque in agrīs. 
+Vaccae lentē ambulant, sed vaccae sunt magnae et puellae sunt parvae. 
+Puellae ex agrīs currunt quod timidae sunt.
+//end::Story-2[] 
+
+//tag::Vocab-2[] 
+
+==== *Vocabulary*
+
+- vaccae, cows
+
+- magnae, large, big
+
+- parvae, small
+
+- timidae, afraid, fearful, timid
+//end::Vocab-2[] 
+
+//tag::Questions-2[] 
+
+==== *Questions*
+
+. Quae sunt in agrīs? Quae...? Who (pl)...?
+
+. Quae hodiē currunt?
+
+. Quae magnae sunt?
+
+. Quid faciunt puellae?
+
+. Cūr puellae ex agrīs currunt?
+//end::Questions-2[]
+
+//tag::Story-3[] 
+
+=== *Chapter 3 – Reading Latin – Boys and Girls in the Fields*
+
+Puerī et puellae in agrīs sunt. 
+Cornēlia dēfessa sedet et Flāvia sōla ambulat. 
+Puerī laetī sunt. Clāmant et rīdent. Hodiē Mārcus est strēnuus et in agrīs currit. 
+Sextus in mūrō stat. Mūrus est magnus, sed Sextus nōn timet.
+
+Etiam in agrīs sunt multae vaccae et magnus taurus. 
+Cornēlia nōn timet. 
+"Ecce!" clāmat. 
+"Est magnus taurus."
+
+Flāvia est puella timida. 
+Flāvia aufugit quod taurus est magnus. Brevī tempore Mārcus et Cornēlia quoque ex agrīs currunt. 
+Sed quid Sextus facit? Sextus sōlus nōn aufugit quod nōn timet. 
+Puer in magnō mūrō stat.
+//end::Story-3[] 
+
+//tag::Vocab-3[] 
+
+==== *Vocabulary*
+
+- in mūrō, on a wall
+
+- stat, (he/she) stands, is standing
+
+- magnus, large, big
+
+- timet, (he/she) is afraid
+
+- vaccae, cows
+
+- taurus, (a/the) bull
+
+- timida, afraid, fearful, timid
+
+- aufugit, (he/she) runs away
+
+//end::Vocab-3[] 
+
+//tag::Questions-3[] 
+
+==== *Questions*
+
+. Quī laetī sunt? Quī...? Who...?(pl)
+
+. Quis in agrīs currit?
+
+. Quis est timida?
+
+. Quis est magnus?
+
+. Quī ex agrīs currunt?
+
+//end::Questions-3[]
+
+//tag::Story-4[]
+
+=== *Chapter 4 – Reading Latin – Girls in the Fields II*
+
+Cornēlia et Flāvia in agrīs ad vīllam ambulant.
+
+Cornēlia, "Sextus est puer molestus," clāmat. 
+"Semper mē vexat. 
+Semper currit et clāmat et arborem ascendit."
+
+"Ita vērō!" inquit Flāvia. 
+"Sextus mē quoque vexat et terret. 
+Nihi Sextum terret. 
+Ubi est Mārcus hodiē? 
+Mārcus mē nōn vexat."
+
+Cornēlia, "Mārcus quoque," inquit, "molestus est! 
+Puerī saepe in hortō currunt et in agrīs arborem ascendunt. 
+Ecce! Sextus arborem iam ascendit."
+
+Subitō puellae magnum fragōrem audiunt. 
+Sextus ē rāmō īnfirmō cadit. Mārcus eum cōnspicit et magnā vōce rīdet. 
+Flāvia et Cornēlia quoque Sextum cōnspiciunt et rīdent quod puerum molestum nōn amant. 
+Tum Mārcum videt Flāvia et rīdet quod Mārcum amat.
+//end::Story-4[] 
+
+//tag::Vocab-4[] 
+
+==== *Vocabulary* 
+- Ubi...? Where...?
+
+- eum, him
+
+//end::Vocab-4[] 
+
+//tag::Questions-4[]
+
+==== *Questions*
+
+. Sextus Cornēliam semper vexat. V F
+
+. Flāvia quoque Sextum vexat et terret. V   F
+
+. Mārcus Flāviam vexat. V F
+
+. Flāvia Sextum nōn amat. V   F
+
+. Mārcus Flāviam videt et rīdet. V    F
+
+
+//end::Questions-4[]
+
+//tag::Story-5[]
+ 
+
+=== *Chapter 5 – Reading Latin – Serves Him Right*
+
+Hodiē Mārcus in agrīs lūdit quod canem habet. 
+Canis in agrīs laetus lūdit. Brevī tempore Sextus ad Mārcum currit. 
+Puerī et canis iam in agrīs lūdunt. 
+Clāmor est magnus!
+
+Ecce! Cornēlia et Flāvia in agrīs prope canem errant. 
+Flāvia fēlem habet. 
+Canis fēlem videt et magnā vōce lātrat. 
+Fēlēs canem timet et aufugit. Est in agrīs magna arbor. 
+Fēlēs arborem petit et ascendit dum canis lātrat.
+
+Flāvia est perterrita quod fēlēs ex arbore dēscendere nōn potest. 
+Flāvia arborem ascendere timet. 
+Sextus, quī est puer temerārius, rīdet et clāmat, "Flāvia arborem ascendere nōn vult! 
+Puellae semper sunt ignāvae!" Sextus arborem statim ascendit quod fēlem petere parat. 
+Fēlēs subitō ex arbore cadit et aufugit. 
+Flāvia fēlem salvam excipit. 
+Sextus ex arbore dēscendere nōn potest quod tunica in rāmīs haeret.
+//end::Story-5[] 
+
+//tag::Vocab-5[] 
+
+==== *Vocabulary*
+
+- lūdit, (he/she) plays
+
+- canis, dog
+
+- habet, (he/she) has
+
+- fēlēs, cat
+
+- lātrat, (he/she) barks
+
+- aufugit, (he/she) runs away
+
+- haeret, is stuck
+
+//end::Vocab-5[] 
+
+//tag::Questions-5[]
+
+==== *Questions*
+
+. Quid fēlēs facere nōn potest?
+
+. Quid Flāvia facere timet?
+
+. Quid Sextus facere parat?
+
+. Quid Sextus facere nōn potest?
+
+
+//end::Questions-5[]
+
+//tag::Story-6[]
+
+=== *Chapter 6 – Reading Latin – Davus is Tired*
+
+Nōndum lūcet, sed Dāvus et aliī servī et ancillae iam surgunt.
+
+Brevī tempore ancillae cibum coquere et magnam vīllam cūrāre parant.
+Multī servī ē vīllā ad agrōs ambulant ubi strēnuē labōrāre parant. In agrīs sunt magnī bovēs et multae ovēs.
+Aliī servī aquam in vīllam portant.
+Dāvus in hortum ambulat et gemit quod statua adhūc in piscīnā est.
+Necesse est strēnuē labōrāre.
+
+Dāvus nōn sedet quod Aurēliam et Cornēlium timet. Piscīnam pūrgāre parat, sed mox sedet quod est dēfessus. Audit Aurēliam, quae prope hortum est. Aurēlia Dāvum ignāvum cōnspicit. "Cavē, Dāve," Aurēlia īrāta clāmat. "Tempus est labōrāre!"
+
+Subitō Dāvus Cornēlium audit, quī in vīllā clāmat, "Ubi est Dāvus? Dormitne?" Dāvus gemit et surgit quod Cornēlium īrātum timet.
+//end::Story-6[] 
+
+//tag::Vocab-6[] 
+
+==== *Vocabulary*
+
+- allī, other
+
+- bovēs, oxen
+
+- ovēs, sheep
+
+
+//end::Vocab-6[] 
+
+//tag::Questions-6[]
+
+==== *Questions*
+
+. Magnae ancillae vīllam cūrāre parant.
+
+. Ad agrōs multōs servī ē vīllā ambulant.
+
+. Multī ovēs et magnae bovēs in agrīs sunt.
+
+. Dāvum ignāva Aurēlia cōnspicit.
+
+. Cornēlium īrātus Dāvus timet.
+
+
+//end::Questions-6[]
+
+//tag::Story-7[]
+
+=== *Chapter 7 – Reading Latin – What is Happening?*
+
+In agrīs labōrant multī servī, quī in vīllā habitant.
+Servus, nōmine Geta, quī est miser et dēfessus, nōn labōrat sed sōlus sub arbore sedet.
+Īrātus est quod strēnuē labōrāre necesse est.
+Tum Dāvus ad servōs occupātōs venit.
+Omnēs strēnuē labōrant quod Dāvus vīlicus est.
+Geta tamen adhūc nōn labōrat quod Dāvum nōn timet.
+Dāvus Getam cōnspicit et clāmat, "Age, ignāve!"
+Nunc labōrat Geta īrātus.
+
+Mox servī cōnspiciunt virum quī epistulās in sacculō habet.
+Vir puerōs et Cornēliam salūtat et ad eōs appropinquat.
+Servī vōcēs audīre nōn possunt quod vōcēs magnae nōn sunt.
+Geta, quī prope virum labōrat, arborem vīcīnam ascendit et vōcēs audit.
+Brevī tempore Mārcus et vir ad vīllam ambulant.
+Aliī servī revocant Getam, quī ex arbore dēscendit et ad eōs venit.
+Dāvus, "Quis est vir?" inquit. 
+"Est nūntius," respondet Geta. "Gāium Cornēlium petit."
+
+Cūr nūntius Gāium Cornēlium petit?
+Quid accidit?
+Servī sollicitī sunt.
+//end::Story-7[] 
+
+//tag::Vocab-7[] 
+
+==== *Vocabulary*
+
+- miser, unhappy
+
+- vīlicus, overseer
+
+- Age!, Come on!
+
+- sacculō, pouch, bag
+
+- habet, (he/she) has
+
+- accidit, is happening
+
+
+//end::Vocab-7[] 
+
+//tag::Questions-7[]
+
+==== *Questions*
+
+. Quem Getam nōn timet?
+
+. Quis epistulās in sacculō habet?
+
+. Quōs vir salūtat?
+
+. Quid Geta audit?
+
+
+//end::Questions-7[]
+
+== Chapters 8-12
+
+//tag::Story-8[]
+
+=== *Chapter 8 – Reading Latin – Sextus Writes a Letter*
+
+Tuus fīlius Sextus s.d. (salūtem dīcit)
+
+Laetus sum, mī pater! Ego et Mārcus et Cornēlia ad urbem īmus quod prīnceps, "Necesse est," scrībit, "Ō Cornēlī, ad urbem redīre."
+Hodiē ancillae tunicās et togās parant et meum cubiculum pūrgant.
+
+Hodiē tamen Dāvum adiuvāre volō quod Dāvus mē amat.
+Saepe Dāvus, "Quō curritis, puerī?" clāmat. 
+"Ubi estis, puerī? Ubi es, Sexte? 
+Ubi est statua, Mārce? Agite! Tempus est in agrīs lūdere."
+Deinde respondēmus, "Sumus in hortō, Dāve. Statua in piscīnā est!"
+
+Nōs et puellae in silvā saepe errāmus.
+Puellae, quod sunt perterritae, arborēs ascendere nōlunt, sed nihil mē terret.
+Saepe clāmāmus ego et Mārcus, "Lupōs timētis, puellae ignāvae! 
+Abī, Cornēlia! Abī, Flāvia! Nōs puerī hīc lūdimus!"
+
+Quid in Asiā facis, mī pater? 
+Tūne tuum Sextum dēsīderās? 
+Quamquam urbem vidēre volō, tē dēsīderō. 
+Valē.
+//end::Story-8[] 
+
+//tag::Vocab-8[] 
+
+==== *Vocabulary*
+
+- tuus, your
+
+- fīlius, son
+
+- salūtem dīcit, says (sends) greetings
+
+- īmus, we are going
+
+- lūdere, to play
+
+- nōlunt, (they) don't want
+
+- hīc, adv., here
+
+- dēsīderās, you long for, miss
+
+- quamquam, conj., although
+
+- Valē! Goodbye!
+
+
+//end::Vocab-8[] 
+
+//tag::Questions-8[]
+
+==== *Questions*
+
+. Sextus laetus est.  V   F
+
+. Puerī et Cornēlia ad urbem redīre parant.   V   F
+
+. Dāvus Sextum adiuvāre vult. V   F
+
+. Puerī et Cornēlia et Flāvia in silvā saepe errant.  V   F
+
+. Puerī saepe clāmant, "Lupus puellās timet!" V   F
+
+. Patrem vidēre Sextus nōn vult.  V   F
+
+- vult, (he) wants
+
+
+//end::Questions-8[]
+
+//tag::Story-9[]
+
+=== *Chapter 9 – Reading Latin – Flavia is Left Behind*
+
+Ubi Corenēlia discēdit, Flāvia lacrimāns sub arbore stat. 
+Puella misera lacrimat et ex agrīs ad vīllam tacitē ambulat. 
+Ad iānuam vīllae iānitor sēmisomnus sedet. 
+"Dormīsne?" rogat Flāvia. 
+"Nōn dormiō!" iānitor īrātus magnā vōce respondet et statim surgit.
+
+Flāvia vīllam intrat et mātrem petit. 
+Per vīllam festīnat puella misera sed mātrem nōn videt. 
+Flāvia ancillās in culīnā labōrantēs cōnspicit et rogat, "Quid facitis? Ubi est māter mea?" 
+"Nescīmus," respondet ancilla occupāta. 
+"Culīnam pūrgāmus neque mātrem tuam petere possumus."
+
+Tandem vōcem audit Flāvia et in hortum festīnat. 
+Mātrem prope piscīnam cōnspicit.
+Māter celeriter sugit.
+"Cūr lacrimās, mea fīlia?" rogat māter sollicita.
+"Ō mē mieseram! Hodiē Cornēlia mea ad urbem redit et ego in vīllā maneō!"
+Māter fīliam complexū tenet.
+Brevī tempore Flāvia, "Necesse est mihi," inquit, "epistulam scrībere!" et ad cubiculum currit.
+//end::Story-9[] 
+
+//tag::Vocab-9[] 
+
+==== *Vocabulary*
+
+- possumus, we are able
+
+- fīlia, daughter
+
+
+//end::Vocab-9[] 
+
+//tag::Questions-9[]
+
+==== *Questions*
+
+. Flāvia lacrimāns in agrōs tacitē ambulat.
+
+. "Nōn dormiō!" clāmat iānitor quī sub iānuā vīllae sedet.
+
+. Flāvia in hortō lentē ambulat et mātrem in piscīnā cōnspicit.
+
+. Dum Cornēlia ex urbe redit, Flāvia prope vīllam manet.
+
+
+//end::Questions-9[]
+
+//tag::Story-10[]
+
+=== *Chapter 10 – Reading Latin – Davus*
+
+Dāvus ad iānuam vīllae stat et servōs Cornēliānōs spectat. 
+Baculum habet et omnia cūrat. Servōs iubet cistās ad raedam ferre. 
+Clāmat, "Cistās ad raedam ferte, servī!" 
+"Cistās ad raedam ferimus," respondent servī.
+
+Servum, nōmine Getam, iubet ad agrōs īre et aquam ad culīnam portāre. 
+Dāvus clāmat, "Aquam, Geta, ex agrīs ad culīnam portā!" 
+Geta gemit. "Aquam ex agrīs portāre nōlō," mussat servus, sed aquam ex agrīs petit.
+
+Raedārium, nōmine Syrum, Dāvus vetat equōs vexāre. 
+"Nōlī equōs vexāre, Syre!" clāmat. 
+"Equōs nōn vexō," respondet Syrus.
+
+Dāvus ancillās pallās et stolās in cistam pōnere iubet. 
+"Pallās et stolās in cistam pōnite!" exclāmat sollicitus vīlicus. 
+"Pallās et stolās in cistam pōnimus," respondent ancillae.
+
+Aliī servī in hortō sedent. 
+"Cūr sedētis neque labōrātis?" Dāvus īrātus clāmat. 
+"Nōlīte sedēre, scelestī servī! Labōrāte strēnuē!" 
+"Strēnuē labōrāmus," respondent servī.
+
+"Nunc omnēs strēnuē labōrātis," inquit Dāvus.
+
+"Tū quoque strēnuē labōrā!" mussant servī et ancillae.
+//end::Story-10[] 
+
+//tag::Vocab-10[] 
+
+==== *Vocabluary*
+
+- vetō, vetāre, to forbid
+
+- mussō, mussāre, to mutter
+
+
+//end::Vocab-10[] 
+
+//tag::Questions-10[]
+
+==== *Questions*
+
+. Dāvus, "Cistās ferte!" inquit. Deinde servī cistās ferunt. V F
+
+. Dāvus, "Aquam portā!" inquit. Deinde Geta aquam portat. V F
+
+. Dāvus, "Equōs vexā!" inquit. Deinde raedārius equōs vexat. V F
+
+. Dāvus, "Pallās in cistam pōnite!" inquit. Deinde ancillae pallās in cistam pōnunt. V F
+
+. Dāvus, "Nōlīte labōrāre!" inquit. Deinde servī nōn labōrant. V F
+
+
+//end::Questions-10[]
+
+//tag::Story-11[]
+
+=== *Chapter 11 – Reading Latin – Davus Tells a New Slave about Cornelius's Family*
+
+Dāvus: Ego sum Dāvus, vīlicus Gāiī Cornēliī. 
+Gāius Cornēlius est senātor Rōmānus et ad urbem saepe redit. 
+Nunc dominus noster abest, sed hīc saepe habitat Cornēlius cum Aurēliā et Mārcō et Cornēliā et Sextō. 
+Aurēlia est uxor Cornēliī.
+
+Servus: Quis est Mārcus?
+
+Dāvus: Mārcus est fīlius Cornēliī et frāter Cornēliae. 
+Cornēlia igitur est soror Mārcī.
+
+Servus: Sed quis est Sextus? 
+Estne frāter Mārcī?
+
+Dāvus: Minimē vērō! Nōn est frāter sed amīcus Mārcī. 
+Pater Sextī est amīcus Cornēliī. 
+Pater Sextī nōn iam in Italiā sed in Asiā habitat. 
+Sextus cum Mārcō in Italiā habitat.
+
+Servus: Suntne multī servī in familiā Cornēliānā?
+
+Dāvus: Est magnus numerus servōrum et ancillārum. 
+Aliī servī in vīllā labōrant, aliī in agrīs et vīneīs vīllae rūsticae.
+
+Servus: Quid faciunt ancillae?
+
+Dāvus: Vestēs līberōrum et parentum cūrant. 
+Cibum quoque parant.
+
+Servus: Ecce! Servī in vīllā rīdent. 
+Suntne laetī servī Cornēliī? Amantne dominum?
+
+Dāvus: Ita vērō! Ego sum vīlicus virī bonī.
+//end::Story-11[] 
+
+//tag::Vocab-11[] 
+
+==== *Vocabulary*
+
+- familia, -ae, f., family, household
+
+- vīnea, -ae, f., vineyard
+
+- vestis, vestis, f., clothing
+
+
+//end::Vocab-11[] 
+
+//tag::Questions-11[]]
+
+==== *Questions*
+
+. Cuius fīlius est anmīcum Sextī?
+
+. Cuius amīcus est Mārcus?
+
+. Cuius pater in Asiā habitat?
+
+. Cūrantne ancillae vestēs Cornēliae et Mārcī Sextī?
+
+. Cuius servī sunt laetī?
+
+- Cuius...? Whose...?
+
+//end::Questions-11[]
+
+//tag::Story-12[]
+
+=== *Chapter 12 – Reading Latin – Thressa's Daughter Talks with Her Mother*
+
+Filia: Quandō nōbīs necesse est labōrāre, māter mea?
+
+Thressa: Prīmā lūce nōbīs necesse est labōrāre. 
+Saepe mediā nocte labōrāmus. 
+Ēheu! Geta hodiē abest et Dāvus est sollicitus.
+
+Filia: Ēheu! Geta est servus scelestus et ignāvus. Eum timeō.
+
+Thressa: Quōmodo tē terret?
+
+Filia: Īrātus saepe est et magnā vōce clāmat.
+
+Thressa: Nunc Getam petit Dāvus.
+
+Filia: Quibuscum eum petit Dāvus?
+
+Thressa: Cum aliīs servīs et canibus Getam petit. 
+Canēs vēstīgia Getae olfacere et Getam invenīre possunt.
+
+Filia: Unde discēdunt servī et canēs?
+
+Thressa: Ex āreā quae est prope vīllam discēdunt. 
+Servī sunt sollicitī.
+
+Filia: Quōmodo Getam petit Dāvus?
+
+Thressa: Magnā cum dīligentiā Dāvus eum petit. 
+Dāvus est vīlicus bonus et, ubi servus effugit; Dāvus eum invenit et verberat.
+
+Filia: Quō instrūmentō eum verberat?.
+
+Thressa: Baculō eum verberat. Ecce! Quid audiō?
+
+Servī et canēs redeunt et Dāvus Getam ad vīllam tunicā trahit. 
+Mox vīlla plēna vōcum et clāmōris erit, nam servī litterās FUG in fronte Getae inūrent.
+//end::Story-12[] 
+
+//tag::Vocab-12[] 
+
+==== *Vocabulary*
+
+- dīligentia, -ae, f., care
+
+- erit, (it) will be
+
+- inūrent, (they) will brand
+
+
+//end::Vocab-12[] 
+
+//tag::Questions-12[]
+
+==== *Questions*
+
+. Ancillae prīmā lūce et mediā nocte saepe labōrant. V F
+
+. Geta magnā dīligentiā labōrat et omnēs magnā cum irā spectat. V F
+
+. Canēs Getam vēstīgiīs invenīre possunt. V F
+
+. Dāvus Getam togā trahit et eum baculō verberat. V F
+
+
+//end::Questions-12[]
+
+== Chapters 13-17
+
+//tag::Story-13[]
+
+=== *Chapter 13 – Reading Latin – Coming the Other Way*
+
+Celeriter faciēbat tabellārius quī epistulās cīvium praeclārōrum ferēbat.
+
+Equī erant dēfessī, sed tabellārius eōs identidem et ferōciter incitābat. 
+"Necesse est," mussābat tabellārius sollicitus, "hodiē Neāpolim advenīre."
+
+Mox raedam Cornēliānam procul cōnspicit.
+
+"Ecce, raeda! Tarda et magna est. 
+Ēheu! Ō mē miserum!" Deinde magnā vōce exclāmat, "Sed mihi necesse est festīnāre!" 
+Equōs ferōciter incitat, et, ubi ad raedam appropinquat, identidem clāmat, "Tenē equōs tuōs, raedārie!"
+
+Brevī tempore cisium tabellāriī raedam Cornēliānam magnā cum celeritāte praeterīre poterat. 
+"Fatue!" mussābat tabellārius sed mox gemēbat quod equī nōn iam celeriter currēbant sed lentē et magnā cum difficultāte ambulābant. 
+"Ēheu! Quid est? Equus claudus est. Necesse est mihi equum novum petere."
+//end::Story-13[] 
+
+//tag::Vocab-13[] 
+
+==== *Vocabulary*
+
+- Neāpolim, to/at Naples
+
+- procul, adv., in the distance
+
+- tardus, slow
+
+- cisium, light two-wheeled carriage
+
+- celeritās, celeritātis, f., speed
+
+- praetereō, praeterīre, to go past
+
+- difficultās, difficultātis, f., difficulty
+
+- claudus, lame
+
+- novus, new
+
+
+//end::Vocab-13[] 
+
+//tag::Questions-13[]
+
+==== *Questions*
+
+. Tabellārius epistulās mittēbat et iter lentē faciēbat.
+
+. Tabellārius hodiē Neāpolim advenīre nōlēbat.
+
+. Equī gemēbant quod nōn iam celeriter currēbant.
+
+. Necesse est cisium novum petere.
+
+
+//end::Questions-13[]
+
+//tag::Story-14[]
+
+=== *Chapter 14 – Reading Latin – From a Letter Written by Cornelia to Flavia*
+
+Dum in raedā per viam iter faciēbāmus, māter et pater dormiēbant.
+
+Ego quoque dormīre temptābam,sed Mārcus mē pede identidem vexābat rīdēbat. 
+Irāta igitur mussābam, "Nōlī mē vexāre, moleste frāter! 
+Pater saepe tē reprehendēbat quod identidem in lectō māne iacēbās neque surgēbās. 
+Semper quoque reprehendēbat tē et Sextum quod in hortō currēbātis et Dāvum vexābātis. 
+Nōlī patrem nunc tuīs iocīs excitāre!" 
+Tandem nōn iam mē vexābat.
+
+Nōs omnēs placidē dormiēbāmus ubi subitō audīmus Sextum, quī identidem clāmat, "Tenē equōs! Cavē fossam!" Statim omnia simul accidunt. 
+Eucleidēs exclāmat. 
+Raeda magnum frāgōrem facit. 
+Māter et pater nōn iam dormiunt. 
+Raeda in fossam dēscendit. 
+Mārcus et māter ad sōlum raedae cadunt et gemunt. 
+Ego lacrimābam. 
+Quam perterritī erāmus!
+
+Tandem omnēs tacitē sedēbāmus. 
+Deinde lentē surgēbāmus et ē raedā dēscendēbāmus. 
+Omnēs incolumēs erāmus, sed quam īrātus erat pater! o miserum raedārium!
+//end::Story-14[] 
+
+//tag::Vocab-14[] 
+
+==== *Vocabulary*
+
+- māne, adv., in the morning
+
+- iocus, -ī, m., joke, prank
+
+- sōlum, floor
+
+
+//end::Vocab-14[] 
+
+//tag::Questions-14[]
+
+==== *Questions*
+
+. Ubi māter et pater dormiēbant, \__________ a. Cornęlia lacrimat.
+
+. Cornēlius īrātus erat \__________ b. Cornēlius īrātus erat.
+
+. Cornēliī subitō audiunt Sextum, \__________ c. per viam iter faciēbāmus.
+
+. Ubi raeda in fossam dēscendit, \__________ d. quod Mārcus in lectō iacēbat.
+
+. Quamquam omnēs incomlumēs erant, \__________ e. quī identidem clāmat, "Tenē equōs!"
+
+
+//end::Questions-14[]
+
+//tag::Story-15[]
+
+=== *Chapter 15 – Reading Latin – Worried and Waiting*
+
+Dum Sextus et Mārcus vehicula expectant, duo parentēs sollicitī silentiō stant. 
+Tandem Cornēlius īrātus, "Nostra raeda," inquit, "onus magnum portābat. 
+Equī dēfessī eam frūstrā ē fossā extrahere temptant. 
+Syrus raedam movēre nōn potest. 
+Necesse est nōbīs auxilium invenīre."
+
+"Ubi auxilium invenīre possumus?" rogat Aurēlia. 
+"Nūllum vehiculum in viā appāret. 
+Vidēsne rūsticōs aut bovēs in agīs vīcīnīs?" 
+Cornēlius, "Rūsticōs videō," inquit, "sed occupāti sunt quod bovēs plaustra plēna onerum trahunt."
+
+"Ecce, pater!" subitō clāmat Cornēlia, quae ad eōs currit. 
+"Quid in viā est?" Procul est nūbēs pulveris. 
+Omnēs murmur rotārum audīre possunt. Cornēlius, "Fortasse est," inquit, "vehiculum." 
+"Fortasse," inquit Aurēlia laeta, "est vir praeclārus cum multīs servīs!" 
+Mox murmur est magnum. 
+"Fortasse est raeda cum quattuor equīs," inquit Cornēlius. 
+Dum vehiculum praeterit, Cornēlius clāmat, "Fer nōbīs auxilium! Fer auxilium!"
+
+Nōn raeda tamen, sed cisium est et celeriter praeterit. Cornēlius gemit. 
+Intereā Syrus duōs equōs defessōs virgā identidem verberat.
+//end::Story-15[] 
+
+//tag::Vocab-15[] 
+
+==== *Vocabulary*
+
+- silentiō, silently
+
+- aut, conj., or
+
+//end::Vocab-15[] 
+
+//tag::Questions-15[]
+
+==== *Questions*
+
+. Syrus equōs dēfessōs ē fossā extrahere temptat.
+
+. Aurēlia nūllum onus in viā cōnspicit.
+
+. Bovēs raedam plēnam equōrum in agrīs trahunt.
+
+. Cornēliī auxilium procul audiunt.
+
+. Vehiculum magnō silentiō appropinquat.
+
+. Cisium tardē praeterit.
+
+
+//end::Questions-15[]
+
+//tag::Story-16[]
+
+=== *Chapter 16 – Reading Latin – Taking a Break*
+
+Syrus et alius servus, nōmine Eucleidēs, prope raedam manent. 
+Syrus equōs nōn iam incitat sed ad Eucleidem lentē ambulat. 
+Duo servī in viā cōnsīdunt.
+
+Eucleidēs: Cūr equōs nōn iam incitās, Syre? 
+Dominus noster est vir bonus sed adhūc īrātus est.
+
+Syrus: Diū equōs dēfessōs virgā verberābam, sed frūstrā. 
+Ut vidēs, equī īnfirmī et paene mortuī sunt. 
+Tempus est quiēscere. 
+Quid faciēbās tū, mī amīce, dum ego equōs incitābam?
+
+Eucleidēs: Raeda magnum onus ferēbat. 
+Cistās familiae nostrae movēbam et in agrō vīcīnō pōnēbam.
+
+Syrus: Erantne in raedā multae cistae?
+
+Eucleidēs: In vehiculō erant multae cistae sed nōn magnae.
+
+Syrus: Cuius cista aperta est?
+
+Eucleidēs: Cista Sextī aperta est. 
+Puer ē cistā pilam extrāxit. 
+Puerī nunc pilā lūdunt. 
+Ecce! Noster Mārcus pilam magnā arte iacit et excipit.
+
+Syrus: Ita vērō! Bonus puer est Mārcus. 
+Quid dē Cornēliō? Quid in animō facere habet Cornēlius? 
+Habetne hospitem quī prope habitat?
+
+Eucleidēs: Hospitem vīcīnum dominus noster nōn habet. 
+Apud hospitem pernoctāre nōn possumus.
+
+Syrus: Ēheu! Ego in viā cum raedā et equīs dēfessīs sōlus pernoctāre nōlō.
+//end::Story-16[] 
+
+//tag::Vocab-16[] 
+
+==== *Vocabulary*
+
+- cōnsīdō, cōnsīdere, to sit down
+
+- paene, adv., almost
+
+- familia, -ae, f., family, household
+
+- Cuius...? Whose...?
+
+- apertus, -a, -um, open
+
+- extrāxit, took out
+
+- prope, adv., nearby
+
+
+//end::Vocab-16[] 
+
+//tag::Questions-16[]
+
+==== *Questions*
+
+. pernoctō, pernoctrāre, to spend the night
+
+. Quālem dominum habent Syrus et Eucleidēs?
+
+. Quālēs equōs verberābat Syrus?
+
+. Quāle onus in raedā est?
+
+. Quālem artem habet Mārcus ubi pilā lūdit?
+
+. Cūr ad hospitem vīcīnum nōn iter facit Cornēlius?
+
+
+//end::Questions-16[]
+
+//tag::Story-17[]
+
+=== *Chapter 17 – Reading Latin – Aurelia is Worried, but Sextus is Not*
+
+Dum Cornēliī per viam ad caupōnam ībant, Aurēlia sollicita erat. 
+"Ego pernoctāre in caupōnā nōlō," inquit māter misera, "quod caupōnae semper sunt perīculōsae. 
+Saepe praedōnēs scelestī in cauōnīs pernoctant."
+
+Sextus, quī ad caupōnam īre volēbat, "Fortasse," inquit, "praedōnēs scelestī in caupōnā nostrā sunt! Praedōnēs vidēre volō." 
+Nunc Cornēlia misera lacrimābat quod praedōnēs timēbat.
+
+"Tacē, Sexte! Nōlumus fēminās terrēre," inquit Mārcus. 
+Sextus, "Nōlī,"inquit, "mē vexāre, Mārce! 
+Omnēs praedōnēs pūgiōnēs et magna bacula sēcum ferunt sed nōs nōn ferimus. 
+Ēheu! Negue baculum neque pūgiōnem ferō sed pilam tantum habeō. 
+Fertne Cornēlius pūgiōnem?"
+
+"Tempus est tacēre, moleste!" inquit Cornēlius, īrā commōtus. 
+"Vīsne terrēre. Aurēliam et Cornēliam?"
+
+"Cūr Aurēlia et Cornēlia perterritae sunt?" rogābat puer fatuus.
+
+Nēmō respondēre poterat sed omnēs ad caupōnam celeriter ībant quod advesperāscēbat. 
+Brevī tempore Sextus laetus, "Syrus," inquit, "virgam habet. 
+Praedōnēs virgā Syrī feriam. 
+Syre, ubi es? "Syrus, inquit Cornēlius, "a raedam manet." 
+Sextus nōn iam laetus erat.
+//end::Story-17[] 
+
+//tag::Vocab-17[] 
+
+==== *Vocabulary*
+
+- praedō, praedōnis, m., robber
+
+- pūgiō, pūgiōnis, m., knife, dagger
+
+- sēcum, with them
+
+- feriam, I will hit
+
+
+//end::Vocab-17[] 
+
+//tag::Questions-17[]
+
+==== *Questions*
+
+need scan
+
+
+//end::Questions-17[]
+
+== Chapters 18-21
+
+//tag::Story-18[]
+
+=== *Chapter 18 – Reading Latin – Uncle Titus*
+
+Intereā, in urbe Rōmā frater Cornēliī, nōmine Titus, in hortō sedēbat. Multī servī fortes et ancillae strēnuae labōrābant, sed Titus prope piscīnam vīcīnam sedēbat et amīcōs cārōs exspectābat. Nōn labōrābat. Neque epistulās scrībēbat neque legēbat. Nihil facere solēbat. Titus omnibus cum amīcīs cēnāre et in lectō dormīre modo volēbat,
+
+Tum vōcēs hominum procul audit. Titus sibi, “Nisi errō,” inquit, “vōcēs amīcōrum fidēlium meōrum audio.”
+
+Duo hominēs breves et obēsī intrant et Titum salūtant. “Salvē, noster Tite! Tempus est breve! Tempus est cēnāre!”
+
+Salvēte, amīcī meī,” respondet Titus. “Laetus vōs videō. Servī meī cēnam nōbīs parāverunt.”
+
+“Quālem cibum parāvērunt?”
+
+Porcum suāvem et ingentem parāvērunt!” Trēs amicī igitur celeriter trīclīnium ēlegāns intrant et in lectīs accumbunt. Titus, “Sollicitus et vexātus sum,” inquit. “Hodiē enim ad Portam Capēnam iī quod meus frāter Cornēlius, vir gravis, cum uxōre et liberīs ad urbem redīre in animō habēbat. Diū ad portam sedēbam et exspectābam sed nōn advēnit. Cornēlius est senātor nōbilis sed homō tardus.”
+
+“Quid accidit? Suntne omnēs incolumēs?” rogat amīcus Titī.
+
+“Nesciō. Crās iterum ad portam mihi redīre necesse erit. Ecce! Meī servī cibum ferunt! Nostra cēna advenit. Servī meī tardī nōn sunt!”
+//end::Story-18[] 
+
+//tag::Vocab-17[] 
+
+==== Vocabulary
+
+cārus, -a, -um, dear, beloved
+
+cēnō, cēnāre, to eat dinner
+
+sibi, to himself
+
+fidēlis, -is, -e, faithful
+
+cēna, -ae, f., dinnder
+
+parāvērunt, (the) have prepared
+
+porcus, -ī, m., pig
+
+suāvis, -is, -e, sweet, delightful
+
+ingēns, ingentis, huge
+
+trīclīnium, -ī, n., dinning room
+
+ēlegāns, ēlegantis, elegant
+
+lectus, -ī, m., couch
+
+accumbō, accumbere, to lie down, recline
+
+vexātus, -a, -um, annoyed
+
+iī, I went
+
+gravis, is, ie, serious
+
+advēnit, he did come
+
+nōbilis, -is, -e, noble
+
+accidit, happened 
+
+erit, it will be
+
+
+//end::Vocab-18[] 
+
+//tag::Questions-18[]
+
+==== Questions
+
+Quot et quāles servōs et ancillās habet Titus?
+
+Quālēs hominēs Titum salūtant?
+
+Quālem porcum parāvērunt servī Titī?
+
+Quāle trīclīnium habet Titus?
+
+Quālem frātrem habet Titus?
+
+//end::Questions-18[]
+
+
+//tag::Story-19[]
+
+=== *Chapter 19 – Reading Latin – Not Quite Ready to Sleep*
+
+Ubi Cornēliī ad caupōnam advēnērunt, Aurēlia intrāre nōluit quod timuit. Fīliam tamen per iānuan dūxit. Cornēlia cēnāre valdē volēbat, sed eī nōn licuit quod māter, “Nōs hīc,” inquit, “cēnāre nōn possumus.”
+
+Mox caupō mātrem et fīliam ad cubiculum dūxit. Cubiculum sordidum erat! Lectus erat sordidsu, et erat pulvis undique. Sub alterō lecto fēlem obēsam vīdit Cornēlia. Dum caupō et māter Cornēliae dē lectō clāmābant, puella laeta ad fēlem manum extendēbat. Fēlēs tamen ē cubiculō cucurrit. Cornēlia gemuit.
+
+Aurēlia iussit caupōnem novum lectum parāre. Servī caupōnis alium lectum in cubiculum portāvērunt et Aurēlia and Cornēlia statim cubitum iērunt. Māter obdormīvit, sed fīlia vigilābat quod vōcēs et clāmōrēs procul audīvit. “Suntne vōcēs puerōrum? Vigilatne adhūc pater? Quālēs hominēs adsunt in caupōnā?” Puella cūriōsa tacitē surrēxit.
+//end::Story-19[] 
+
+//tag::Vocab-19[] 
+
+==== Vocabulary
+
+eī nōn licuit, she was not allowed
+
+undique, adv, everywhere
+
+fēlēs, fēlis, gen. pl., fēlium, f., cat
+
+obdormiō, obdormīre, to go to sleep
+
+adsum adesse, to be present
+
+cūriōsus, -a, -um, to be present
+
+cūriōsus, -a, -um, curious
+
+surrēxit, (she) arose
+
+
+//end::Vocab-19[] 
+
+//tag::Questions-19[]
+
+==== Questions
+
+Cornēlia et Aurēlia caupōnam intrāvērunt.   V   F
+
+Māter et fīlia ad cubiculum cum caupōne iērunt. V   F
+
+Fēlēs Cornēliam sub lectō vīdit.    V   F
+
+Cornēlia laeta erat quod fēlēs fūgit.   V   F
+
+Cornēlia et Aurēlia surrēxērunt quod vōcēs et clāmōrēs audīvērunt.  V   F
+
+//end::Questions-19[]
+
+
+//tag::Story-20[]
+
+=== *Chapter 20 – Reading Latin – What a Snore!*
+
+Dum raeda in fossa haerēbat immōbilis, Syrus sōlus in viā manēbat; necesse enim erat raedam et equōs custōdīre. “ēheu!” gemuit raedārius. “Nōn licet mihi in caupōnā pernoctāre quod raedam ē fossā extrahere nōn potuī. Perīculōsum est hīc pernoctāre. Ō mē miserum!” Dum equī sub arboribus post raedam quiēscunt, obdormīvit in raedā Syrus.
+
+Mediā nocte trēs praedōnēs per Viam Appiam tacitē ambulābant. Rogāvit ūnus praedō, “Quid in caupōnā vīdistī tū?”
+
+“In viā nihil vīdī. +
+“Ecce!” interpellāvit tertius praedō. “Vidētisne raedam?”
+
+Deinde cistās in agrō cōnspexērunt. Ad eās appropinquāvērunt et vestēs extraxērunt. Subitō stertuit in raedā raedārius. Praedōnēs timēbant, nam Syrum vidēre nōn potuērunt. Celeriter aufūgērunt et vestēs in agrō relīnquērunt.
+
+Prīmā lūce raedārius surrēxit. “Quan dēfessus eram! Mehercule! Cūr vestēs in agrō sunt?” exclāmāvit. Circumspexit in omnēs partēs, sed nihil vīdit. Itaque vestēs in cistās iterum posuit.
+//end::Story-20[] 
+
+//tag::Vocab-20[] 
+
+==== Vocabulary
+
+possum, posse, potui, to be able
+
+post, prep. + acc., after, behind
+
+obdormiō, -īre, -īvī, -ītūrus, to go to sleep
+
+praedō, praedōnis, m., robber
+
+cōnspiciō, cōnspicere, cōnspexī, cōnspectus, to catch sight of 
+
+tertius, -a, -um, third
+
+vestis, vestis, gen. pl., vestium, f., clothes
+
+stertō, stertere, stertuī, to snore
+
+aufugiō, aufugere, aufūgī, to run away
+
+surgō, surgere, surrēxī, surrēctūrus, to get up, rise
+
+circumspiciō, circumspicere, circumspexī, circumspectus, to look around
+
+
+//end::Vocab-20[] 
+
+//tag::Questions-20[]
+
+
+==== Questions
+
+Praedōnēs in viā pernoctābant quod raedam extrahere nōn potuērunt.
+
+Servus sub arboribus post raedam dormīvit.
+
+Ūnus praedō, "Quid in caupōnā vīdī?" rogāvit.
+
+Alius praedō, "Senātōrem Rōmānum in caupōnā vīdī," inquit.
+
+Syrus exlāmāvit, "Quam dēfessus erās!"
+
+//end::Questions-20[]
+
+
+//tag::Story-21[]
+
+=== *Chapter 21 – Reading Latin – A Slave Overnight*
+
+Cornēlia in culīnā vīllae stābat sōla. Calceōs nōn habēbat et tunicam sordidam gerēbat. “Venīte, servī! Venīte, ancillae!” clāmābat Cornēlia. “Ubi estis, ignāvī servī? Quid agitis?”
+
+Nēmō vēnit. Iterum iterumque Cornēlia clāmābat, sed nihil nisi silentium erat. Tandem vōcēs servōrum audīvit. Subitō appāruit Dāvus et aliī servī. Brevī tempore circum Cornēliam cōnstitērunt. Omnēs togās gerēbant. Tum Dāvus, “Quid est,” inquit, “ancilla?”
+
+Cui Cornēlia, “Nōn tibi licet mē ancillam vocāre.”
+
+Respondit Dāvus īrātus, “Servus nōn sum, sed tū ancilla es. Ecce! Ego, ut vidēre potes, togam gerō; tū geris tunicam sordidam. Tū es Syra, serva amīcī meī, Cornēliī.”
+
+Stupuit Cornēlia et clāmāvit, “Cornēlia sum, nōn Syra.” Sed nēmō eam audiēbat.
+
+Subitō clāmābant servī, “Fer vīnum! Fer cibum! Pūrgā vīllam! Coque cibum! Movē cistam! Nōlī cessāre!”
+
+Huc illūc currēbat Cornēlia. Tulit cibum et vīnum. Mōvit cistam. Pūrgāvit vīllam, coxit cibum, onmia sōla cūrāvit. Strēnuē labōrāt Cornēlia, quae iam effugere voluit. Tum clāmāvit Dāvus, “Tacēte, omnēs! Appropinquat dominus Syrae!”
+
+Omnēs statim tacuērunt et iānuam spectābant. Intrāvit dominus. Nōn fuit pater Cornēliae. Nōn fuit homō! Vīdit Cornēlia perterrita canem ingentem et exclāmāvit, “Fer mihi auxilium!”
+
+Oculōs aperuit. Aurēlia prope lectum stābat sollicita.
+//end::Story-21[] 
+
+//tag::Vocab-21[] 
+
+==== Vocabulary
+
+ātrium, -ī, n., main room
+
+calceus, -ī, m., shoe
+
+circum, prep. + acc, around
+
+cōnsistō, cōnsistere, cōnstitī, to come to a halt, stand still
+
+pessimus, -a, -um, very bad, worst
+
+stupeō, stupēre, stupuī, to be amazed, gape
+
+vīnum, -ī, n., wine
+
+coquō, coquere, coxī coctus, to cook
+
+oculus, -i, m., eye
+
+
+//end::Vocab-21[] 
+
+//tag::Questions-21[]
+
+
+==== Questions
+
+Dāvus iam togam gerēbat sed Cornēlia    _____   a. somnium modo fuit.
+
+Cornēlia ancilla fuit sed Dāvus _____   b. semper strenuē labōrābat.
+
+Cornēlia effugere voluit quod _____ c. tunicam sordidam gerēbat neque calceōs habēbat.
+
+Cornēlia perterrita exclāmāvit _____    d. quod dominus fuit canis ingēns.
+
+Cornēlia oculōs aperuit; _____  e. servus nōn fuit.
+
+//end::Questions-21[]
+
+== Chapters 22-24
+
+//tag::Story-22[]
+
+=== *Chapter 22 – Reading Latin – Titus Gets Ready*
+
+In urbe Rōmā diēs iam calidus erat. Servī et ancillae Titī cibum coquēbant, domum pūrgābant, tacitē labōrābant quod dominum excitāre nōlēbant. Titus tamen in lectō iacēbat et stertēbat, immemor frātris Cornēliī.
+
+Tandem servus Titī cubiculum intrāvit et dominum excitāvit. Titus invītus surrēxit et, “Fer ad mē cibum et tunicam pūram,” servō clāmāvit. Brevī tempore servus tunicam et cibum ad dominum tulit. Dum auxiliō servī tunicam induit, Titus rogāvit, “Quota hōra est?”
+
+“Est quīnta hōra, domine,” respondit servus. “Nōndum est tempus cēnāre.” Eō ipsō tempore alius servus Titī ad iānuam appāruit. “Est nūntius in ātriō, mī domine,” inquit. “Epistulam tibi habet,”
+
+“Mehercule! Habetne mihi espistulam? Statim eum vocā,” exclāmāvit Titus. Brevī tempore intrāvit nūntius quī epistulam Titō trādidit. Titus epistulam lēgit. “Ēheu!” exclāmāvit Titus. “Necesse est mihi lectīcāriōs statim condūcere et frātrem et familiam eius ad Portam Capēnam excipere. Cūr mē nōn prius excitāvistī?”
+
+“Frātrem et familiam iterum excipis? Nōnne heri ad urbem advēnērunt?” rogāvit servus.
+
+“Minimē,” respondit Titus. “Heri lectīcāriōs condūxī et ad Portam Capēnam iī. Multās hōrās ibi manēbam, sed frāter meus numquam advēnit. Tandem domum rediī. Haec epistula rem explicat. Cornēlius aliquid malī accēpit et familia in caupōnā pernoctāvit. Nunc omnēs iterum in itinere sunt; Cornēlius ad Portam Capēnam sexā hōrā advenīre vult. Ī statim ad Forum! Celeriter meō frātrī Cornēliō et Aurēliae et Cornēliae condūc lectīcāriōs! Aliī lectīcāriī mē ad portam Capēnam ferent.”
+
+Celeriter servī omnia Titō parāvērunt. “Quam dēfessus sum!” exclāmāvit Titus.
+//end::Story-22[] 
+
+//tag::Vocab-22[] 
+
+==== Vocabulary 
+
+domum, house, home
+
+stertō, stertere, stertuī, to snore
+
+pūrus, -a, -um, clean
+
+ātrium, -ī, n., atrium, main room
+
+lectīcārius, -ī, m., litter-bearer
+
+condūcō, condūcere, condūxī, conductus, to hire
+
+familia, -ae, f., family, household
+
+eius, his
+
+prius, adv., earlier
+
+aliquid malī, something bad
+
+accipiō, accipere, accēpī, acceptus, to receive
+
+ferent, will carry
+
+
+//end::Vocab-22[] 
+
+//tag::Questions-22[]
+
+==== Questions
+
+Cui surgere māne nōn necesse fuit?
+
+Cui Titus clāmāvit?
+
+Cui nūntius epistulam trādidit?
+
+Quibus Titus lectīcāriōs condūcere voluit?
+
+Quibus Titus exclāmāvit "Quam dēfessus sum!"?
+
+//end::Questions-22[]
+
+
+//tag::Story-23[]
+
+=== *Chapter 23 – Reading Latin – I Too Want to See the City!*
+
+Extrā urbem Cornēlia laeta ē raedā dēscendit et patruum Titum cum gaudiō salūtāvit. Dum Titus rem quandam Cornēliō explicābat, spectābat Cornēlia multōs quī hūc illūc festīnābant. Suprā capita erant Aqua Mārcia et mūrus Urbis.
+
+“Venī nōbīscum, Cornēlia,” inquit Aurēlia. “Raedam hīc relinquēmus et in lectīcīs sedēbimus. Lectīcariī nōs domum ferent. Pater tuus alterā lectīcā domum petet. Eō celeriter adveniēmus.”
+
+“Quid dē puerīs?” rogāvit puella. “Cūr cum Titō et Eucleide adhūc stant?”
+
+“Puerī cum patruō tuō hīc manēbunt. Titus eōs per urbem dūcet et multa eīs in itinere mōnstrābit. Puerī domum nunc īre nōlunt. Pater domum celerrimē īre vult, nam brevī tempore ad Cūriam ībit. Necesse est nōbīs cum patre statim īre.”
+
+Invīta in lectīcam ascendit Cornēlia. “Ego quoque,” inquit, “multa in itinere vidēre volō.”
+
+“Cōnspiciēmus mīra, quae tibi explicābō,” inquit Aurēlia. “In urbe sunt multa nova quae vidēre poterimus.” Tum lectīcariī lectīcam in umerōs sustulērunt. Mox lectīcariī per viās urbis Cornēliōs ferēbant. Aurēlia, “Cum domum adveniēmus,” inquit, “omnēs et onmia īnspicere volam.”
+
+Fēminae ingentēs īnsulās in itinere vīdērunt in quibus pauperēs habitābant. Etiam cōnspexērunt mercātorēs quī in tabernīs erant, praeclārōs quōs servī in lectīcīs ferēbant, servōs et cīvēs quī in viīs ambulābant. Tandem domum magnam et amoenam cōnspexērunt. “Eugepae!” clāmāvit Cornēlia. “Nostram domum videō! Laeta sum domī esse.”
+//end::Story-23[] 
+
+//tag::Vocab-23[] 
+
+==== Vocabulary
+
+rem quandam, a certain matter
+
+caput, capitis, n., head
+
+umerus, -ī, m., shoulder
+
+tollō, tollere, sustulī, sublātus, to lift, raise, raise up
+
+īnsula, -ae, f., apartment building
+
+paulper, pauperis, m., poor person
+
+taberna, -ae, f., shop
+
+amoenus, -a, -um, pleasant
+
+domī, at home
+
+
+//end::Vocab-23[] 
+
+//tag::Questions-23[]
+
+
+==== Questions
+
+Puerī in lectīcīs domum ībunt.  V   F  
+Cornēlia in lectīcam ascendt.   V   F
+Aurēlia Cornēliae mīra et nova in itinere explicābit.   V   F
+Cornēlius omnēs et omnia domī īnspiciet.    V   F
+Fēminae praeclārōs quōs servī in lectīcīs ferēbant vīdērunt.    V   F
+
+//end::Questions-23[]
+
+
+//tag::Story-24[]
+
+=== *Chapter 24 – Reading Latin – Home at Last*
+
+Ubi lectīcāriī ad iānuam advēnērunt, servī et ancillae omnia dominō et dominae iam parāverant. Corneliī ad iānuam occurrērunt iānitōrī, quī dominum et dominam et Cornēliam salūtāvit. Iānitor, “Quam laetī,” inquit, “servī vestrī vōs omnēs excipient!” Cornēlius, quī ē lectīcā dēscenderat et iānitōrem salūtāverat, cum uxōre et fīliā domum intrāvit. Alius servus, nōmine Tīrō, eōs maximō cum gaudiō excēpit.
+
+Tīrō, “Statim tē lavāre poteris, domine,” inquit, “quod servī omnia tibi parāvērunt.” +
+Cornēlius ad cubiculum iam festīnāverat, et Tīrō ad fēminās sē vertit.
+
+Aurēlia Tīrōnī, “Simulac servī cistās nostrās ad cubicula tulerint,” inquit, “ego et Cornēlia nōs quīetī dabimus. Prīmum tamen necesse est mihi domum īnspicere. Certē servīs et ancillīs cōnfīdō, sed ego ipsa omnia vidēre volō. Per tōtam domum mē dūc, Tīrō. Venī mēcum, Cornēlia.”
+
+Dum māter et fīlia culīnae cum Tīrōne appropinquābant, servī et ancillae capita dēmittēbant quod dominam timēbant. Aūrelia, ubi tōtam domum īnspexerat, “Sī lectōs et cubicula nōbīs parāveritis, nōs quietī statim dabimus,” inquit. “Ego et Cornēlia itinere dēfessae sumus.”
+//end::Story-24[] 
+
+//tag::Vocab-24[] 
+
+==== Vocabulary
+
+sē, himself
+
+cōnfīdō, cōfīdere + dat., to give trust (to), trust
+
+caput, capitis, n., head
+
+dēmittō, dēmittere, dēmīsī, dēmissus, to lower
+    caput dēmittere, to bow the head
+
+
+//end::Vocab-24[] 
+
+//tag::Questions-24[]
+
+
+==== Questions
+
+Iānitor excēpit dominum et dominam et fīliam, ubi domum circumierant.
+
+Simulac Cornēliī exiērunt, Tīrō eōs salūtāvit.
+
+Quod servī omnēs eōs salūtāvērunt, Cornēlius sē lavāre poterit.
+
+Simulac Aurēlia omnia relīquerit, sē quiētī dabit.
+
+Aurēlia, quod servōs et ancillās timēbat, omnia vidēre voluit.
+
+Cum servī et ancillae lectōs et cistās cēlāverint, Aurēlia et Cornēlia sē quiētī dabunt.
+
+//end::Questions-24[]
+
+== Chapters 25-27
+
+//tag::Story-25[]
+
+=== *Chapter 25 – Reading Latin – Out on the Town*
+
+Diēs erat et Mārcus et Sextus adhūc in lectīs stertēbant cum intrāvit Eucleidēs, quī exclāmāvit, “Tempus est surgere, puerī. Tempus est nōbīs urbem Sextō mōnstrāre et Forum et Cūriam et multōs arcūs et aquaeductus vidēre. Cum tunicās et togās indueritis, in urbem exībimus.” Laetī erant puerī, nam in urbe erant multa quae nōndum vīderant.
+
+Puerī, ubi surrēxērunt et vestēs induērunt, in ātriō domūs Eucleidī occurrērunt. Eucleidēs et puerī exiērunt et per magnam urbem multās hōrās ambulābant. Illā nocte, ubi Mārcus et Sextus domum rediērunt, Cornēlia frātrem et Sextum multa rogāvit.
+
+*Cornēlia:* Quid in urbe fēcistī, Mārce?
+
+*Mārcus:* Multa et mīra Sextō dēmōnstrāvī. Simulac in viam exiimus, multōs sonitūs audīvimus. Magnus erat tumultus. Audīvimus tumultum turbae et rīsūs cīvium quī praeterībant.
+
+*Cornēlia:* Vīdistīne aliquid novī, Sexte?
+
+*Sextus:* Numquam anteā tantum numerum hominum vīderam. Etiam domūs praeclārōrum virōrum et mercātōrēs et tabernās et aedificia Forī vīdimus. Quam ingēns est Rōma! Parvam modo partem Urbis vīdimus! Satis temporis omnia vidēre nōn habuimus.
+
+*Mārcus:* Omnēs novem Virginēs Vestāles in Forō Rōmānō vīdimus. Ad Ātrium Vestae, quod est domus eārum, redībant. Virginēs Vestāles ignem sacrum in aede Vestae currant. Īnfulās et vittās gerēbant.
+
+*Cornēlia:* Dēlectāvēruntne tē Vestālēs, Sexte?
+
+*Sextus:* Fortasse mē paulum dēlectāvērunt, sed gladiātōrēs et aurīgas vidēre valdē volō!
+//end::Story-25[] 
+
+//tag::Vocab-25[] 
+
+==== Vocabulary
+
+ātrium, -ī, n., atrium, main room
+
+parvus, -a, -um, small
+
+Vesta, -ae, f., Vesta (goddess of the hearth)
+
+eārum, their (fem. pl.)
+
+sacer, sacra, sacrum, holy, sacred
+
+aedēs, aedis, f., temple
+
+īnfula, -ae, f., woolen headband (a special long headdress worn by priests and priestesses)
+
+vitta, -ae, f., woolen ribbon (knotted onto an īnfula)
+
+dēlectō, -āre, -āvī, -ātus, to delight, amuse, please
+
+paulum, adv., a little, somewhat
+
+
+//end::Vocab-25[] 
+
+//tag::Questions-25[]
+
+==== Questions
+
+Eucleidēs puerōs excitāvit _____    a. quod Rōma est urbs ingēns.
+
+Puerī cum Eucleide per urbem multās hōrās ambulābant et _____   b. postquam per urbem multās hōrās ambulāvērunt.
+
+Puerī et Eucleidēs domum pervēnērunt _____ c. Sextum paulum dēlectāvit.
+
+Sextus multa et mīra vīdit _____ d. quod Sextō multa in urbe mōnstrāre voluit.
+
+Puerī parvam modo patrem urbis vīdērunt _____   e. quae Mārcus eī dēmōnstrāvit.
+
+Vidēre Virginēs Vestālēs prope Ātrium Vestae _____  f. domūs preaclārōrum virōrum et mercātōrēs et tabernās et aedificia Forī vīdērunt.
+
+//end::Questions-25[]
+
+
+//tag::Story-26[]
+
+=== *Chapter 26 – Reading Latin – What’s Wrong?*
+
+Tertiā hōrā patruus Titus ad domum Cornēliānam advēnerat et atrium intrābat. Ibi Sextō et Cornēliae occurrit.
+
+“Eho, līberī!” exclāmāvit. “Ecce illī vultūs miserī! Cūr in hīs sellīs sedētis? Nōnne in urbem exīre nōn vult. Cūr nōndum parātī estis?”
+
+“Mārcus somnium malum heri nocte vīdit,” inquit Cornēlia. “Nunc in urbem exīre nōn vult. Licēbitne nōbīs in urbem sine Mārcō īre?”
+
+“Quid?” rogāvit Titus. “Quantum stultitiae! Mārce! Venī hūc!”
+
+Mārcus tardē atrium intrāvit et patruō appropinquāvit.
+
+“Dīc mihi!” inquit patruus. “Quid in illō somniō vīdistī?”
+
+“In illō somniō,” respondit Mārcus, “per viās huius Urbis cum Sextō ambulābam et tribus hominibus prope Circum occurrimus. Hī hominēs magnōs gladiōs ferēbant. Gladiōs strīnxērunt et clāmāvērunt, ‘Rōmānōs nōn amāmus! Tē certē necābimus!’ Suntne in hāc urbe tālēs hominēs scelestī?”
+
+“Minimē, minimē!” dīxit Titus. “Nōlī sollicitus esse! Haec urbs magna et mīra est. In tantā urbe tamen sunt multī et variī hominēs. Sī vōs dīligenter cāvēbitis et prūdentēs eritis. Hominēs scelestī vōs numquam vexābunt.”
+//end::Story-26[] 
+
+//tag::Vocab-26[] 
+
+==== *Vocabulary*
+
+- vultus, -ūs, m., face, expression
+
+- sella, -ae, f., chair
+
+- Quantum stultitiae! What follishness! What nonsense!
+
+- varius, -a, -um, different, varied
+
+- prūdēns, prūdentis, wise, sensible
+
+
+
+//end::Vocab-26[] 
+
+//tag::Questions-26[]
+
+==== *Questions*
+
+. Quibus occurit Titus, ubi ātrium inrāvit?
+
+. Quō exīre volunt līberī?
+
+. Quid in somniō vīdit Mārcus?
+
+. Quid strīnxērunt hī hominēs?
+
+. Quōs nōn amant hī hominēs scelestī?
+
+. Quot et quālēs hominēs in tantā urbe sunt?
+
+//end::Questions-26[]
+
+
+//tag::Story-27[]
+
+=== *Chapter 27 – Reading Latin – More News for Flavia from Cornelia*
+
+Mē et puerōs ad lūdōs in Circō Maximō factōs heri Eucleidēs dūxit. Ubi ē somnō surrēxī, puerī et Eucleidēs sē iam parāverant. Statim igitur Circum petīvimus. Ubi eō pervēnimus, patruus noster cum suīs amīcīs iam prope curriculum cōnsēderat. Quamquam prope curriculum sedēre nōbīs nōn licuit, omnia tamen vidēre potuimus. Postquam aurīgae eōs ferōciter verberābant!
+
+Omnēs mulierēs, senātōrēs, cīvēs, servī factiōnibus suīs strēnuē favēbant. Quam magnae erant vōcēs eōrum! Ego et puerī factiōnibus nostrīs favēbāmus. Sextus, ille puer molestus, nōbīs identidem clāmābat, “Meī russātī semper vestrōs aurīgās vincent!” Quamquam prīmō russātī eius vīcērunt meī venetī saepe vīcērunt. Albātī Mārcī nōn bene currēbant, et Mārcus miser sibi mussābat. Pauca post certāmina tempus fuit discēdere. Dum domum redībāmus, puerī mē vexāre temptābant, ut semper, sed eōs vītāre poteram.
+
+Cum tū ad urbem vēneris, nōbīscum ad lūdōs circēnsēs fortasse īre poteris! Licēbitne mox tibi Rōmam venire? Sī māter tua tēcum vēnerit, laeta erit māter mea quod eam vidēre vult.
+
+Necesse est mihi cubitum īre. Valē, mea amīca.
+//end::Story-27[] 
+
+//tag::Vocab-27[] 
+
+==== *Vocabulary*
+- prīmō, adv., at first
+- paucī, -ae, -a, a few
+- certāmen, certāminis, n., contest
+
+
+//end::Vocab-27[] 
+
+//tag::Questions-27[]
+
+==== *Questions*
+. Postquam Mārcus et Sextus sē quiētī dedērunt, puerī et Cornēlia cum Eucleide Circum perīvērunt.   V   F
+
+. Mārcus et Cornēlia patruum suum cum amīcīs eius sedentem in Circō cōnspexērunt.   V   F
+
+. Omnēs factiōnibus suīs favēbant.  V   F
+
+. Mārcus erat miser et Sextō mussābat.  V   F
+
+. Dum līberī domum redībant, Cornēlia puerōs molestōs vītābat.  V   F
+
+. Cornēliae māter mātrem Flāviae vidēre vult    V   F
+
+//end::Questions-27[] 

@@ -1,0 +1,32 @@
+//tag::Story[] 
+== *Chapter 2 – Reading Latin – Girls in the Fields I*
+
+Ecce! Sunt puellae in agrīs. Puellae sunt Flāvia et Cornēlia. 
+Flāvia et Cornēlia sunt amīcae et in agrīs saepe ambulant. 
+Sed hodiē Cornēlia currit. Brevī tempore etiam Flāvia currit. 
+Cūr puellae currunt? Currunt quod sunt vaccae quoque in agrīs. 
+Vaccae lentē ambulant, sed vaccae sunt magnae et puellae sunt parvae. 
+Puellae ex agrīs currunt quod timidae sunt.
+//end::Story[] 
+
+=== *Vocabulary*
+
+- vaccae, cows
+
+- magnae, large, big
+
+- parvae, small
+
+- timidae, afraid, fearful, timid
+
+=== *Questions*
+
+. Quae sunt in agrīs? Quae...? Who (pl)...?
+
+. Quae hodiē currunt?
+
+. Quae magnae sunt?
+
+. Quid faciunt puellae?
+
+. Cūr puellae ex agrīs currunt?

@@ -1,0 +1,74 @@
+//tag::Story[] 
+== *Chapter 18 – Reading Latin – Uncle Titus*
+
+Intereā, in urbe Rōmā frater Cornēliī, nōmine Titus, in hortō sedēbat. Multī servī fortes et ancillae strēnuae labōrābant, sed Titus prope piscīnam vīcīnam sedēbat et amīcōs cārōs exspectābat. Nōn labōrābat. Neque epistulās scrībēbat neque legēbat. Nihil facere solēbat. Titus omnibus cum amīcīs cēnāre et in lectō dormīre modo volēbat,
+
+Tum vōcēs hominum procul audit. Titus sibi, “Nisi errō,” inquit, “vōcēs amīcōrum fidēlium meōrum audio.”
+
+Duo hominēs breves et obēsī intrant et Titum salūtant. “Salvē, noster Tite! Tempus est breve! Tempus est cēnāre!”
+
+Salvēte, amīcī meī,” respondet Titus. “Laetus vōs videō. Servī meī cēnam nōbīs parāverunt.”
+
+“Quālem cibum parāvērunt?”
+
+Porcum suāvem et ingentem parāvērunt!” Trēs amicī igitur celeriter trīclīnium ēlegāns intrant et in lectīs accumbunt. Titus, “Sollicitus et vexātus sum,” inquit. “Hodiē enim ad Portam Capēnam iī quod meus frāter Cornēlius, vir gravis, cum uxōre et liberīs ad urbem redīre in animō habēbat. Diū ad portam sedēbam et exspectābam sed nōn advēnit. Cornēlius est senātor nōbilis sed homō tardus.”
+
+“Quid accidit? Suntne omnēs incolumēs?” rogat amīcus Titī.
+
+“Nesciō. Crās iterum ad portam mihi redīre necesse erit. Ecce! Meī servī cibum ferunt! Nostra cēna advenit. Servī meī tardī nōn sunt!”
+//end::Story[] 
+
+=== Vocabulary
+
+cārus, -a, -um, dear, beloved
+
+cēnō, cēnāre, to eat dinner
+
+sibi, to himself
+
+fidēlis, -is, -e, faithful
+
+cēna, -ae, f., dinnder
+
+parāvērunt, (the) have prepared
+
+porcus, -ī, m., pig
+
+suāvis, -is, -e, sweet, delightful
+
+ingēns, ingentis, huge
+
+trīclīnium, -ī, n., dinning room
+
+ēlegāns, ēlegantis, elegant
+
+lectus, -ī, m., couch
+
+accumbō, accumbere, to lie down, recline
+
+vexātus, -a, -um, annoyed
+
+iī, I went
+
+gravis, is, ie, serious
+
+advēnit, he did come
+
+nōbilis, -is, -e, noble
+
+accidit, happened 
+
+erit, it will be
+
+=== Questions
+
+Quot et quāles servōs et ancillās habet Titus?
+
+Quālēs hominēs Titum salūtant?
+
+Quālem porcum parāvērunt servī Titī?
+
+Quāle trīclīnium habet Titus?
+
+Quālem frātrem habet Titus?
+

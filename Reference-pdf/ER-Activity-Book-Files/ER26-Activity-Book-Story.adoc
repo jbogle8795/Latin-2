@@ -1,0 +1,45 @@
+//tag::Story[] 
+== *Chapter 26 – Reading Latin – What’s Wrong?*
+
+Tertiā hōrā patruus Titus ad domum Cornēliānam advēnerat et atrium intrābat. Ibi Sextō et Cornēliae occurrit.
+
+“Eho, līberī!” exclāmāvit. “Ecce illī vultūs miserī! Cūr in hīs sellīs sedētis? Nōnne in urbem exīre nōn vult. Cūr nōndum parātī estis?”
+
+“Mārcus somnium malum heri nocte vīdit,” inquit Cornēlia. “Nunc in urbem exīre nōn vult. Licēbitne nōbīs in urbem sine Mārcō īre?”
+
+“Quid?” rogāvit Titus. “Quantum stultitiae! Mārce! Venī hūc!”
+
+Mārcus tardē atrium intrāvit et patruō appropinquāvit.
+
+“Dīc mihi!” inquit patruus. “Quid in illō somniō vīdistī?”
+
+“In illō somniō,” respondit Mārcus, “per viās huius Urbis cum Sextō ambulābam et tribus hominibus prope Circum occurrimus. Hī hominēs magnōs gladiōs ferēbant. Gladiōs strīnxērunt et clāmāvērunt, ‘Rōmānōs nōn amāmus! Tē certē necābimus!’ Suntne in hāc urbe tālēs hominēs scelestī?”
+
+“Minimē, minimē!” dīxit Titus. “Nōlī sollicitus esse! Haec urbs magna et mīra est. In tantā urbe tamen sunt multī et variī hominēs. Sī vōs dīligenter cāvēbitis et prūdentēs eritis. Hominēs scelestī vōs numquam vexābunt.”
+//end::Story[] 
+
+=== *Vocabulary*
+
+- vultus, -ūs, m., face, expression
+
+- sella, -ae, f., chair
+
+- Quantum stultitiae! What follishness! What nonsense!
+
+- varius, -a, -um, different, varied
+
+- prūdēns, prūdentis, wise, sensible
+
+=== *Questions*
+
+. Quibus occurit Titus, ubi ātrium inrāvit?
+
+. Quō exīre volunt līberī?
+
+. Quid in somniō vīdit Mārcus?
+
+. Quid strīnxērunt hī hominēs?
+
+. Quōs nōn amant hī hominēs scelestī?
+
+. Quot et quālēs hominēs in tantā urbe sunt?

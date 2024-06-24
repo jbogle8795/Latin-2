@@ -1,0 +1,68 @@
+//tag::Story[] 
+== *Chapter 16 – Reading Latin – Taking a Break*
+
+Syrus et alius servus, nōmine Eucleidēs, prope raedam manent. 
+Syrus equōs nōn iam incitat sed ad Eucleidem lentē ambulat. 
+Duo servī in viā cōnsīdunt.
+
+Eucleidēs: Cūr equōs nōn iam incitās, Syre? 
+Dominus noster est vir bonus sed adhūc īrātus est.
+
+Syrus: Diū equōs dēfessōs virgā verberābam, sed frūstrā. 
+Ut vidēs, equī īnfirmī et paene mortuī sunt. 
+Tempus est quiēscere. 
+Quid faciēbās tū, mī amīce, dum ego equōs incitābam?
+
+Eucleidēs: Raeda magnum onus ferēbat. 
+Cistās familiae nostrae movēbam et in agrō vīcīnō pōnēbam.
+
+Syrus: Erantne in raedā multae cistae?
+
+Eucleidēs: In vehiculō erant multae cistae sed nōn magnae.
+
+Syrus: Cuius cista aperta est?
+
+Eucleidēs: Cista Sextī aperta est. 
+Puer ē cistā pilam extrāxit. 
+Puerī nunc pilā lūdunt. 
+Ecce! Noster Mārcus pilam magnā arte iacit et excipit.
+
+Syrus: Ita vērō! Bonus puer est Mārcus. 
+Quid dē Cornēliō? Quid in animō facere habet Cornēlius? 
+Habetne hospitem quī prope habitat?
+
+Eucleidēs: Hospitem vīcīnum dominus noster nōn habet. 
+Apud hospitem pernoctāre nōn possumus.
+
+Syrus: Ēheu! Ego in viā cum raedā et equīs dēfessīs sōlus pernoctāre nōlō.
+//end::Story[] 
+
+=== *Vocabulary*
+
+- cōnsīdō, cōnsīdere, to sit down
+
+- paene, adv., almost
+
+- familia, -ae, f., family, household
+
+- Cuius...? Whose...?
+
+- apertus, -a, -um, open
+
+- extrāxit, took out
+
+- prope, adv., nearby
+
+=== *Questions*
+
+. pernoctō, pernoctrāre, to spend the night
+
+. Quālem dominum habent Syrus et Eucleidēs?
+
+. Quālēs equōs verberābat Syrus?
+
+. Quāle onus in raedā est?
+
+. Quālem artem habet Mārcus ubi pilā lūdit?
+
+. Cūr ad hospitem vīcīnum nōn iter facit Cornēlius?

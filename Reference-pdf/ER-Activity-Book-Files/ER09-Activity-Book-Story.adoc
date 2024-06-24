@@ -1,0 +1,39 @@
+//tag::Story[] 
+== *Chapter 9 – Reading Latin – Flavia is Left Behind*
+
+Ubi Corenēlia discēdit, Flāvia lacrimāns sub arbore stat. 
+Puella misera lacrimat et ex agrīs ad vīllam tacitē ambulat. 
+Ad iānuam vīllae iānitor sēmisomnus sedet. 
+"Dormīsne?" rogat Flāvia. 
+"Nōn dormiō!" iānitor īrātus magnā vōce respondet et statim surgit.
+
+Flāvia vīllam intrat et mātrem petit. 
+Per vīllam festīnat puella misera sed mātrem nōn videt. 
+Flāvia ancillās in culīnā labōrantēs cōnspicit et rogat, "Quid facitis? Ubi est māter mea?" 
+"Nescīmus," respondet ancilla occupāta. 
+"Culīnam pūrgāmus neque mātrem tuam petere possumus."
+
+Tandem vōcem audit Flāvia et in hortum festīnat. 
+Mātrem prope piscīnam cōnspicit.
+Māter celeriter sugit.
+"Cūr lacrimās, mea fīlia?" rogat māter sollicita.
+"Ō mē mieseram! Hodiē Cornēlia mea ad urbem redit et ego in vīllā maneō!"
+Māter fīliam complexū tenet.
+Brevī tempore Flāvia, "Necesse est mihi," inquit, "epistulam scrībere!" et ad cubiculum currit.
+//end::Story[] 
+
+=== *Vocabulary*
+
+- possumus, we are able
+
+- fīlia, daughter
+
+=== *Questions*
+
+. Flāvia lacrimāns in agrōs tacitē ambulat.
+
+. "Nōn dormiō!" clāmat iānitor quī sub iānuā vīllae sedet.
+
+. Flāvia in hortō lentē ambulat et mātrem in piscīnā cōnspicit.
+
+. Dum Cornēlia ex urbe redit, Flāvia prope vīllam manet.

@@ -1,0 +1,48 @@
+//tag::Story[] 
+== *Chapter 5 – Reading Latin – Serves Him Right*
+
+Hodiē Mārcus in agrīs lūdit quod canem habet. 
+Canis in agrīs laetus lūdit. Brevī tempore Sextus ad Mārcum currit. 
+Puerī et canis iam in agrīs lūdunt. 
+Clāmor est magnus!
+
+Ecce! Cornēlia et Flāvia in agrīs prope canem errant. 
+Flāvia fēlem habet. 
+Canis fēlem videt et magnā vōce lātrat. 
+Fēlēs canem timet et aufugit. Est in agrīs magna arbor. 
+Fēlēs arborem petit et ascendit dum canis lātrat.
+
+Flāvia est perterrita quod fēlēs ex arbore dēscendere nōn potest. 
+Flāvia arborem ascendere timet. 
+Sextus, quī est puer temerārius, rīdet et clāmat, "Flāvia arborem ascendere nōn vult! 
+Puellae semper sunt ignāvae!" Sextus arborem statim ascendit quod fēlem petere parat. 
+Fēlēs subitō ex arbore cadit et aufugit. 
+Flāvia fēlem salvam excipit. 
+Sextus ex arbore dēscendere nōn potest quod tunica in rāmīs haeret.
+//end::Story[] 
+
+=== *Vocabulary*
+
+- lūdit, (he/she) plays
+
+- canis, dog
+
+- habet, (he/she) has
+
+- fēlēs, cat
+
+- lātrat, (he/she) barks
+
+- aufugit, (he/she) runs away
+
+- haeret, is stuck
+
+=== *Questions*
+
+. Quid fēlēs facere nōn potest?
+
+. Quid Flāvia facere timet?
+
+. Quid Sextus facere parat?
+
+. Quid Sextus facere nōn potest?

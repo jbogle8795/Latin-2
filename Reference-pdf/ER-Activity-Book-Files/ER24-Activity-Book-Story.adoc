@@ -1,0 +1,37 @@
+//tag::Story[] 
+== *Chapter 24 – Reading Latin – Home at Last*
+
+Ubi lectīcāriī ad iānuam advēnērunt, servī et ancillae omnia dominō et dominae iam parāverant. Corneliī ad iānuam occurrērunt iānitōrī, quī dominum et dominam et Cornēliam salūtāvit. Iānitor, “Quam laetī,” inquit, “servī vestrī vōs omnēs excipient!” Cornēlius, quī ē lectīcā dēscenderat et iānitōrem salūtāverat, cum uxōre et fīliā domum intrāvit. Alius servus, nōmine Tīrō, eōs maximō cum gaudiō excēpit.
+
+Tīrō, “Statim tē lavāre poteris, domine,” inquit, “quod servī omnia tibi parāvērunt.” +
+Cornēlius ad cubiculum iam festīnāverat, et Tīrō ad fēminās sē vertit.
+
+Aurēlia Tīrōnī, “Simulac servī cistās nostrās ad cubicula tulerint,” inquit, “ego et Cornēlia nōs quīetī dabimus. Prīmum tamen necesse est mihi domum īnspicere. Certē servīs et ancillīs cōnfīdō, sed ego ipsa omnia vidēre volō. Per tōtam domum mē dūc, Tīrō. Venī mēcum, Cornēlia.”
+
+Dum māter et fīlia culīnae cum Tīrōne appropinquābant, servī et ancillae capita dēmittēbant quod dominam timēbant. Aūrelia, ubi tōtam domum īnspexerat, “Sī lectōs et cubicula nōbīs parāveritis, nōs quietī statim dabimus,” inquit. “Ego et Cornēlia itinere dēfessae sumus.”
+//end::Story[] 
+
+=== Vocabulary
+
+sē, himself
+
+cōnfīdō, cōfīdere + dat., to give trust (to), trust
+
+caput, capitis, n., head
+
+dēmittō, dēmittere, dēmīsī, dēmissus, to lower
+    caput dēmittere, to bow the head
+
+=== Questions
+
+Iānitor excēpit dominum et dominam et fīliam, ubi domum circumierant.
+
+Simulac Cornēliī exiērunt, Tīrō eōs salūtāvit.
+
+Quod servī omnēs eōs salūtāvērunt, Cornēlius sē lavāre poterit.
+
+Simulac Aurēlia omnia relīquerit, sē quiētī dabit.
+
+Aurēlia, quod servōs et ancillās timēbat, omnia vidēre voluit.
+
+Cum servī et ancillae lectōs et cistās cēlāverint, Aurēlia et Cornēlia sē quiētī dabunt.

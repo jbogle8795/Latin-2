@@ -1,0 +1,57 @@
+//tag::Story[] 
+== *Chapter 12 – Reading Latin – Thressa's Daughter Talks with Her Mother*
+
+Filia: Quandō nōbīs necesse est labōrāre, māter mea?
+
+Thressa: Prīmā lūce nōbīs necesse est labōrāre. 
+Saepe mediā nocte labōrāmus. 
+Ēheu! Geta hodiē abest et Dāvus est sollicitus.
+
+Filia: Ēheu! Geta est servus scelestus et ignāvus. Eum timeō.
+
+Thressa: Quōmodo tē terret?
+
+Filia: Īrātus saepe est et magnā vōce clāmat.
+
+Thressa: Nunc Getam petit Dāvus.
+
+Filia: Quibuscum eum petit Dāvus?
+
+Thressa: Cum aliīs servīs et canibus Getam petit. 
+Canēs vēstīgia Getae olfacere et Getam invenīre possunt.
+
+Filia: Unde discēdunt servī et canēs?
+
+Thressa: Ex āreā quae est prope vīllam discēdunt. 
+Servī sunt sollicitī.
+
+Filia: Quōmodo Getam petit Dāvus?
+
+Thressa: Magnā cum dīligentiā Dāvus eum petit. 
+Dāvus est vīlicus bonus et, ubi servus effugit; Dāvus eum invenit et verberat.
+
+Filia: Quō instrūmentō eum verberat?.
+
+Thressa: Baculō eum verberat. Ecce! Quid audiō?
+
+Servī et canēs redeunt et Dāvus Getam ad vīllam tunicā trahit. 
+Mox vīlla plēna vōcum et clāmōris erit, nam servī litterās FUG in fronte Getae inūrent.
+//end::Story[] 
+
+=== *Vocabulary*
+
+- dīligentia, -ae, f., care
+
+- erit, (it) will be
+
+- inūrent, (they) will brand
+
+=== *Questions*
+
+. Ancillae prīmā lūce et mediā nocte saepe labōrant. V F
+
+. Geta magnā dīligentiā labōrat et omnēs magnā cum irā spectat. V F
+
+. Canēs Getam vēstīgiīs invenīre possunt. V F
+
+. Dāvus Getam togā trahit et eum baculō verberat. V F

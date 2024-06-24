@@ -1,0 +1,66 @@
+//tag::Story[] 
+== *Chapter 8 – Reading Latin – Sextus Writes a Letter*
+
+Tuus fīlius Sextus s.d. (salūtem dīcit)
+
+Laetus sum, mī pater! Ego et Mārcus et Cornēlia ad urbem īmus quod prīnceps, "Necesse est," scrībit, "Ō Cornēlī, ad urbem redīre."
+Hodiē ancillae tunicās et togās parant et meum cubiculum pūrgant.
+
+Hodiē tamen Dāvum adiuvāre volō quod Dāvus mē amat.
+Saepe Dāvus, "Quō curritis, puerī?" clāmat. 
+"Ubi estis, puerī? Ubi es, Sexte? 
+Ubi est statua, Mārce? Agite! Tempus est in agrīs lūdere."
+Deinde respondēmus, "Sumus in hortō, Dāve. Statua in piscīnā est!"
+
+Nōs et puellae in silvā saepe errāmus.
+Puellae, quod sunt perterritae, arborēs ascendere nōlunt, sed nihil mē terret.
+Saepe clāmāmus ego et Mārcus, "Lupōs timētis, puellae ignāvae! 
+Abī, Cornēlia! Abī, Flāvia! Nōs puerī hīc lūdimus!"
+
+Quid in Asiā facis, mī pater? 
+Tūne tuum Sextum dēsīderās? 
+Quamquam urbem vidēre volō, tē dēsīderō. 
+Valē.
+//end::Story[] 
+
+=== *Vocabulary*
+
+- tuus, your
+
+- fīlius, son
+
+- salūtem dīcit, says (sends) greetings
+
+- īmus, we are going
+
+- lūdere, to play
+
+- nōlunt, (they) don't want
+
+- hīc, adv., here
+
+- dēsīderās, you long for, miss
+
+- quamquam, conj., although
+
+- Valē! Goodbye!
+
+=== *Questions*
+
+. Sextus laetus est.  V   F
+
+. Puerī et Cornēlia ad urbem redīre parant.   V   F
+
+. Dāvus Sextum adiuvāre vult. V   F
+
+. Puerī et Cornēlia et Flāvia in silvā saepe errant.  V   F
+
+. Puerī saepe clāmant, "Lupus puellās timet!" V   F
+
+. Patrem vidēre Sextus nōn vult.  V   F
+
+- vult, (he) wants
+
+
+
+

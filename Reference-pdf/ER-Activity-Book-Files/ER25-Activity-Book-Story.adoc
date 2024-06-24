@@ -1,0 +1,58 @@
+//tag::Story[] 
+== *Chapter 25 – Reading Latin – Out on the Town*
+
+Diēs erat et Mārcus et Sextus adhūc in lectīs stertēbant cum intrāvit Eucleidēs, quī exclāmāvit, “Tempus est surgere, puerī. Tempus est nōbīs urbem Sextō mōnstrāre et Forum et Cūriam et multōs arcūs et aquaeductus vidēre. Cum tunicās et togās indueritis, in urbem exībimus.” Laetī erant puerī, nam in urbe erant multa quae nōndum vīderant.
+
+Puerī, ubi surrēxērunt et vestēs induērunt, in ātriō domūs Eucleidī occurrērunt. Eucleidēs et puerī exiērunt et per magnam urbem multās hōrās ambulābant. Illā nocte, ubi Mārcus et Sextus domum rediērunt, Cornēlia frātrem et Sextum multa rogāvit.
+
+*Cornēlia:* Quid in urbe fēcistī, Mārce?
+
+*Mārcus:* Multa et mīra Sextō dēmōnstrāvī. Simulac in viam exiimus, multōs sonitūs audīvimus. Magnus erat tumultus. Audīvimus tumultum turbae et rīsūs cīvium quī praeterībant.
+
+*Cornēlia:* Vīdistīne aliquid novī, Sexte?
+
+*Sextus:* Numquam anteā tantum numerum hominum vīderam. Etiam domūs praeclārōrum virōrum et mercātōrēs et tabernās et aedificia Forī vīdimus. Quam ingēns est Rōma! Parvam modo partem Urbis vīdimus! Satis temporis omnia vidēre nōn habuimus.
+
+*Mārcus:* Omnēs novem Virginēs Vestāles in Forō Rōmānō vīdimus. Ad Ātrium Vestae, quod est domus eārum, redībant. Virginēs Vestāles ignem sacrum in aede Vestae currant. Īnfulās et vittās gerēbant.
+
+*Cornēlia:* Dēlectāvēruntne tē Vestālēs, Sexte?
+
+*Sextus:* Fortasse mē paulum dēlectāvērunt, sed gladiātōrēs et aurīgas vidēre valdē volō!
+//end::Story[] 
+
+=== Vocabulary
+
+ātrium, -ī, n., atrium, main room
+
+parvus, -a, -um, small
+
+Vesta, -ae, f., Vesta (goddess of the hearth)
+
+eārum, their (fem. pl.)
+
+sacer, sacra, sacrum, holy, sacred
+
+aedēs, aedis, f., temple
+
+īnfula, -ae, f., woolen headband (a special long headdress worn by priests and priestesses)
+
+vitta, -ae, f., woolen ribbon (knotted onto an īnfula)
+
+dēlectō, -āre, -āvī, -ātus, to delight, amuse, please
+
+paulum, adv., a little, somewhat
+
+=== Questions
+
+Eucleidēs puerōs excitāvit _____    a. quod Rōma est urbs ingēns.
+
+Puerī cum Eucleide per urbem multās hōrās ambulābant et _____   b. postquam per urbem multās hōrās ambulāvērunt.
+
+Puerī et Eucleidēs domum pervēnērunt _____ c. Sextum paulum dēlectāvit.
+
+Sextus multa et mīra vīdit _____ d. quod Sextō multa in urbe mōnstrāre voluit.
+
+Puerī parvam modo patrem urbis vīdērunt _____   e. quae Mārcus eī dēmōnstrāvit.
+
+Vidēre Virginēs Vestālēs prope Ātrium Vestae _____  f. domūs preaclārōrum virōrum et mercātōrēs et tabernās et aedificia Forī vīdērunt.
+

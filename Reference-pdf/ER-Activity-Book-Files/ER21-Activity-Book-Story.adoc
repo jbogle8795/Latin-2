@@ -1,0 +1,54 @@
+//tag::Story[] 
+== *Chapter – Reading Latin – A Slave Overnight*
+
+Cornēlia in culīnā vīllae stābat sōla. Calceōs nōn habēbat et tunicam sordidam gerēbat. “Venīte, servī! Venīte, ancillae!” clāmābat Cornēlia. “Ubi estis, ignāvī servī? Quid agitis?”
+
+Nēmō vēnit. Iterum iterumque Cornēlia clāmābat, sed nihil nisi silentium erat. Tandem vōcēs servōrum audīvit. Subitō appāruit Dāvus et aliī servī. Brevī tempore circum Cornēliam cōnstitērunt. Omnēs togās gerēbant. Tum Dāvus, “Quid est,” inquit, “ancilla?”
+
+Cui Cornēlia, “Nōn tibi licet mē ancillam vocāre.”
+
+Respondit Dāvus īrātus, “Servus nōn sum, sed tū ancilla es. Ecce! Ego, ut vidēre potes, togam gerō; tū geris tunicam sordidam. Tū es Syra, serva amīcī meī, Cornēliī.”
+
+Stupuit Cornēlia et clāmāvit, “Cornēlia sum, nōn Syra.” Sed nēmō eam audiēbat.
+
+Subitō clāmābant servī, “Fer vīnum! Fer cibum! Pūrgā vīllam! Coque cibum! Movē cistam! Nōlī cessāre!”
+
+Huc illūc currēbat Cornēlia. Tulit cibum et vīnum. Mōvit cistam. Pūrgāvit vīllam, coxit cibum, onmia sōla cūrāvit. Strēnuē labōrāt Cornēlia, quae iam effugere voluit. Tum clāmāvit Dāvus, “Tacēte, omnēs! Appropinquat dominus Syrae!”
+
+Omnēs statim tacuērunt et iānuam spectābant. Intrāvit dominus. Nōn fuit pater Cornēliae. Nōn fuit homō! Vīdit Cornēlia perterrita canem ingentem et exclāmāvit, “Fer mihi auxilium!”
+
+Oculōs aperuit. Aurēlia prope lectum stābat sollicita.
+//end::Story[] 
+
+=== Vocabulary
+
+ātrium, -ī, n., main room
+
+calceus, -ī, m., shoe
+
+circum, prep. + acc, around
+
+cōnsistō, cōnsistere, cōnstitī, to come to a halt, stand still
+
+pessimus, -a, -um, very bad, worst
+
+stupeō, stupēre, stupuī, to be amazed, gape
+
+vīnum, -ī, n., wine
+
+coquō, coquere, coxī coctus, to cook
+
+oculus, -i, m., eye
+
+
+=== Questions
+
+Dāvus iam togam gerēbat sed Cornēlia    _____   a. somnium modo fuit.
+
+Cornēlia ancilla fuit sed Dāvus _____   b. semper strenuē labōrābat.
+
+Cornēlia effugere voluit quod _____ c. tunicam sordidam gerēbat neque calceōs habēbat.
+
+Cornēlia perterrita exclāmāvit _____    d. quod dominus fuit canis ingēns.
+
+Cornēlia oculōs aperuit; _____  e. servus nōn fuit.

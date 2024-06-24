@@ -1,0 +1,45 @@
+//tag::Story[] 
+== *Chapter 23 – Reading Latin – I Too Want to See the City!*
+
+Extrā urbem Cornēlia laeta ē raedā dēscendit et patruum Titum cum gaudiō salūtāvit. Dum Titus rem quandam Cornēliō explicābat, spectābat Cornēlia multōs quī hūc illūc festīnābant. Suprā capita erant Aqua Mārcia et mūrus Urbis.
+
+“Venī nōbīscum, Cornēlia,” inquit Aurēlia. “Raedam hīc relinquēmus et in lectīcīs sedēbimus. Lectīcariī nōs domum ferent. Pater tuus alterā lectīcā domum petet. Eō celeriter adveniēmus.”
+
+“Quid dē puerīs?” rogāvit puella. “Cūr cum Titō et Eucleide adhūc stant?”
+
+“Puerī cum patruō tuō hīc manēbunt. Titus eōs per urbem dūcet et multa eīs in itinere mōnstrābit. Puerī domum nunc īre nōlunt. Pater domum celerrimē īre vult, nam brevī tempore ad Cūriam ībit. Necesse est nōbīs cum patre statim īre.”
+
+Invīta in lectīcam ascendit Cornēlia. “Ego quoque,” inquit, “multa in itinere vidēre volō.”
+
+“Cōnspiciēmus mīra, quae tibi explicābō,” inquit Aurēlia. “In urbe sunt multa nova quae vidēre poterimus.” Tum lectīcariī lectīcam in umerōs sustulērunt. Mox lectīcariī per viās urbis Cornēliōs ferēbant. Aurēlia, “Cum domum adveniēmus,” inquit, “omnēs et onmia īnspicere volam.”
+
+Fēminae ingentēs īnsulās in itinere vīdērunt in quibus pauperēs habitābant. Etiam cōnspexērunt mercātorēs quī in tabernīs erant, praeclārōs quōs servī in lectīcīs ferēbant, servōs et cīvēs quī in viīs ambulābant. Tandem domum magnam et amoenam cōnspexērunt. “Eugepae!” clāmāvit Cornēlia. “Nostram domum videō! Laeta sum domī esse.”
+//end::Story[] 
+
+=== Vocabulary
+
+rem quandam, a certain matter
+
+caput, capitis, n., head
+
+umerus, -ī, m., shoulder
+
+tollō, tollere, sustulī, sublātus, to lift, raise, raise up
+
+īnsula, -ae, f., apartment building
+
+paulper, pauperis, m., poor person
+
+taberna, -ae, f., shop
+
+amoenus, -a, -um, pleasant
+
+domī, at home
+
+=== Questions
+
+Puerī in lectīcīs domum ībunt.  V   F  
+Cornēlia in lectīcam ascendt.   V   F
+Aurēlia Cornēliae mīra et nova in itinere explicābit.   V   F
+Cornēlius omnēs et omnia domī īnspiciet.    V   F
+Fēminae praeclārōs quōs servī in lectīcīs ferēbant vīdērunt.    V   F

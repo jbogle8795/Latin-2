@@ -1,0 +1,26 @@
+//tag::Story[] 
+== *Chapter 1 – Reading Latin – At the Country House and Farm*
+
+Quis est puella Rōmāna? 
+Puella Rōmāna est Cornēlia quae aestāte in vīllā rūsticā habitat. 
+Cornēlia est laeta quod sub arbore legit. 
+In vīllā vīcīnā habitat altera puella Rōmāna, nōmine Flāvia.
+
+Later:
+
+Cornēlia in vīllā sedet et legit. 
+Ubi est Flāvia? Etiam Flāvia in vīllā sedet. 
+Quid facit puella? 
+Flāvia scrībit dum Cornēlia legit. 
+Flāvia est laeta quod in vīllā sedet et scrībit.
+//end::Story[]
+
+=== *Questions*
+
+. Cūr est Cornēlia laeta?
+
+. Quis in vīllā vīcīnā habitat?
+
+. Quid facit Cornēlia in vīllā?
+
+. Quid facit Flāvia in vīllā?

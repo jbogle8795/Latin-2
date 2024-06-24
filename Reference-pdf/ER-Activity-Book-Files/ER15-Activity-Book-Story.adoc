@@ -1,0 +1,45 @@
+//tag::Story[] 
+== *Chapter 15 – Reading Latin – Worried and Waiting*
+
+Dum Sextus et Mārcus vehicula expectant, duo parentēs sollicitī silentiō stant. 
+Tandem Cornēlius īrātus, "Nostra raeda," inquit, "onus magnum portābat. 
+Equī dēfessī eam frūstrā ē fossā extrahere temptant. 
+Syrus raedam movēre nōn potest. 
+Necesse est nōbīs auxilium invenīre."
+
+"Ubi auxilium invenīre possumus?" rogat Aurēlia. 
+"Nūllum vehiculum in viā appāret. 
+Vidēsne rūsticōs aut bovēs in agīs vīcīnīs?" 
+Cornēlius, "Rūsticōs videō," inquit, "sed occupāti sunt quod bovēs plaustra plēna onerum trahunt."
+
+"Ecce, pater!" subitō clāmat Cornēlia, quae ad eōs currit. 
+"Quid in viā est?" Procul est nūbēs pulveris. 
+Omnēs murmur rotārum audīre possunt. Cornēlius, "Fortasse est," inquit, "vehiculum." 
+"Fortasse," inquit Aurēlia laeta, "est vir praeclārus cum multīs servīs!" 
+Mox murmur est magnum. 
+"Fortasse est raeda cum quattuor equīs," inquit Cornēlius. 
+Dum vehiculum praeterit, Cornēlius clāmat, "Fer nōbīs auxilium! Fer auxilium!"
+
+Nōn raeda tamen, sed cisium est et celeriter praeterit. Cornēlius gemit. 
+Intereā Syrus duōs equōs defessōs virgā identidem verberat.
+//end::Story[] 
+
+=== *Vocabulary*
+
+- silentiō, silently
+
+- aut, conj., or
+
+=== *Questions*
+
+. Syrus equōs dēfessōs ē fossā extrahere temptat.
+
+. Aurēlia nūllum onus in viā cōnspicit.
+
+. Bovēs raedam plēnam equōrum in agrīs trahunt.
+
+. Cornēliī auxilium procul audiunt.
+
+. Vehiculum magnō silentiō appropinquat.
+
+. Cisium tardē praeterit.

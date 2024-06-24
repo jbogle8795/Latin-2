@@ -1,0 +1,36 @@
+//tag::Story[] 
+== *Chapter 6 – Reading Latin – Davus is Tired*
+
+Nōndum lūcet, sed Dāvus et aliī servī et ancillae iam surgunt.
+
+Brevī tempore ancillae cibum coquere et magnam vīllam cūrāre parant.
+Multī servī ē vīllā ad agrōs ambulant ubi strēnuē labōrāre parant. In agrīs sunt magnī bovēs et multae ovēs.
+Aliī servī aquam in vīllam portant.
+Dāvus in hortum ambulat et gemit quod statua adhūc in piscīnā est.
+Necesse est strēnuē labōrāre.
+
+Dāvus nōn sedet quod Aurēliam et Cornēlium timet. Piscīnam pūrgāre parat, sed mox sedet quod est dēfessus. Audit Aurēliam, quae prope hortum est. Aurēlia Dāvum ignāvum cōnspicit. "Cavē, Dāve," Aurēlia īrāta clāmat. "Tempus est labōrāre!"
+
+Subitō Dāvus Cornēlium audit, quī in vīllā clāmat, "Ubi est Dāvus? Dormitne?" Dāvus gemit et surgit quod Cornēlium īrātum timet.
+//end::Story[] 
+
+=== *Vocabulary*
+
+- allī, other
+
+- bovēs, oxen
+
+- ovēs, sheep
+
+
+=== *Questions*
+
+. Magnae ancillae vīllam cūrāre parant.
+
+. Ad agrōs multōs servī ē vīllā ambulant.
+
+. Multī ovēs et magnae bovēs in agrīs sunt.
+
+. Dāvum ignāva Aurēlia cōnspicit.
+
+. Cornēlium īrātus Dāvus timet.

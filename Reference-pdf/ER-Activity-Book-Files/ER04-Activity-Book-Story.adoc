@@ -1,0 +1,42 @@
+//tag::Story[] 
+== *Chapter 4 – Reading Latin – Girls in the Fields II*
+
+Cornēlia et Flāvia in agrīs ad vīllam ambulant.
+
+Cornēlia, "Sextus est puer molestus," clāmat. 
+"Semper mē vexat. 
+Semper currit et clāmat et arborem ascendit."
+
+"Ita vērō!" inquit Flāvia. 
+"Sextus mē quoque vexat et terret. 
+Nihi Sextum terret. 
+Ubi est Mārcus hodiē? 
+Mārcus mē nōn vexat."
+
+Cornēlia, "Mārcus quoque," inquit, "molestus est! 
+Puerī saepe in hortō currunt et in agrīs arborem ascendunt. 
+Ecce! Sextus arborem iam ascendit."
+
+Subitō puellae magnum fragōrem audiunt. 
+Sextus ē rāmō īnfirmō cadit. Mārcus eum cōnspicit et magnā vōce rīdet. 
+Flāvia et Cornēlia quoque Sextum cōnspiciunt et rīdent quod puerum molestum nōn amant. 
+Tum Mārcum videt Flāvia et rīdet quod Mārcum amat.
+//end::Story[] 
+
+=== *Vocabulary* 
+- Ubi...? Where...?
+
+- eum, him
+
+
+==== Questions
+
+. Sextus Cornēliam semper vexat. V F
+
+. Flāvia quoque Sextum vexat et terret. V   F
+
+. Mārcus Flāviam vexat. V F
+
+. Flāvia Sextum nōn amat. V   F
+
+. Mārcus Flāviam videt et rīdet. V    F

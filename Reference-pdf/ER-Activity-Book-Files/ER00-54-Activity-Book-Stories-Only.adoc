@@ -1,0 +1,5 @@
+== ER 1-54 Activity Stories
+
+//include::../ER-Activity-Book-Files/ER00-Activity-Book.adoc[tags=Story-1;Story-2;Story-3;Story-4;Story-5;Story-6;Story-7;Story-8;Story-9;Story-10;Story-11;Story-12;Story-13;Story-14;Story-15;Story-16;Story-17;Story-18;Story-19;Story-20;Story-21;Story-22;Story-23;Story-24;Story-25;Story-26;Story-27]
+
+include::ER00-54-Activity-Book-Stories.adoc[tags=Story-1;Story-2;Story-3;Story-4;Story-5;Story-6;Story-7;Story-8;Story-9;Story-10;Story-11;Story-12;Story-13;Story-14;Story-15;Story-16;Story-17;Story-18;Story-19;Story-20;Story-21;Story-22;Story-23;Story-24;Story-25;Story-26;Story-27]

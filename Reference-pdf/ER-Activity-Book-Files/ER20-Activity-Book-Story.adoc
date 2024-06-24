@@ -1,0 +1,50 @@
+//tag::Story[] 
+== *Chapter 20 – Reading Latin – What a Snore!*
+
+Dum raeda in fossa haerēbat immōbilis, Syrus sōlus in viā manēbat; necesse enim erat raedam et equōs custōdīre. “ēheu!” gemuit raedārius. “Nōn licet mihi in caupōnā pernoctāre quod raedam ē fossā extrahere nōn potuī. Perīculōsum est hīc pernoctāre. Ō mē miserum!” Dum equī sub arboribus post raedam quiēscunt, obdormīvit in raedā Syrus.
+
+Mediā nocte trēs praedōnēs per Viam Appiam tacitē ambulābant. Rogāvit ūnus praedō, “Quid in caupōnā vīdistī tū?”
+
+“In viā nihil vīdī. +
+“Ecce!” interpellāvit tertius praedō. “Vidētisne raedam?”
+
+Deinde cistās in agrō cōnspexērunt. Ad eās appropinquāvērunt et vestēs extraxērunt. Subitō stertuit in raedā raedārius. Praedōnēs timēbant, nam Syrum vidēre nōn potuērunt. Celeriter aufūgērunt et vestēs in agrō relīnquērunt.
+
+Prīmā lūce raedārius surrēxit. “Quan dēfessus eram! Mehercule! Cūr vestēs in agrō sunt?” exclāmāvit. Circumspexit in omnēs partēs, sed nihil vīdit. Itaque vestēs in cistās iterum posuit.
+//end::Story[] 
+
+=== Vocabulary
+
+possum, posse, potui, to be able
+
+post, prep. + acc., after, behind
+
+obdormiō, -īre, -īvī, -ītūrus, to go to sleep
+
+praedō, praedōnis, m., robber
+
+cōnspiciō, cōnspicere, cōnspexī, cōnspectus, to catch sight of 
+
+tertius, -a, -um, third
+
+vestis, vestis, gen. pl., vestium, f., clothes
+
+stertō, stertere, stertuī, to snore
+
+aufugiō, aufugere, aufūgī, to run away
+
+surgō, surgere, surrēxī, surrēctūrus, to get up, rise
+
+circumspiciō, circumspicere, circumspexī, circumspectus, to look around
+
+=== Questions
+
+Praedōnēs in viā pernoctābant quod raedam extrahere nōn potuērunt.
+
+Servus sub arboribus post raedam dormīvit.
+
+Ūnus praedō, "Quid in caupōnā vīdī?" rogāvit.
+
+Alius praedō, "Senātōrem Rōmānum in caupōnā vīdī," inquit.
+
+Syrus exlāmāvit, "Quam dēfessus erās!"

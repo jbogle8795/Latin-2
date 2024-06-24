@@ -1,0 +1,45 @@
+//tag::Story[] 
+== *Chapter 14 – Reading Latin – From a Letter Written by Cornelia to Flavia*
+
+Dum in raedā per viam iter faciēbāmus, māter et pater dormiēbant.
+
+Ego quoque dormīre temptābam,sed Mārcus mē pede identidem vexābat rīdēbat. 
+Irāta igitur mussābam, "Nōlī mē vexāre, moleste frāter! 
+Pater saepe tē reprehendēbat quod identidem in lectō māne iacēbās neque surgēbās. 
+Semper quoque reprehendēbat tē et Sextum quod in hortō currēbātis et Dāvum vexābātis. 
+Nōlī patrem nunc tuīs iocīs excitāre!" 
+Tandem nōn iam mē vexābat.
+
+Nōs omnēs placidē dormiēbāmus ubi subitō audīmus Sextum, quī identidem clāmat, "Tenē equōs! Cavē fossam!" Statim omnia simul accidunt. 
+Eucleidēs exclāmat. 
+Raeda magnum frāgōrem facit. 
+Māter et pater nōn iam dormiunt. 
+Raeda in fossam dēscendit. 
+Mārcus et māter ad sōlum raedae cadunt et gemunt. 
+Ego lacrimābam. 
+Quam perterritī erāmus!
+
+Tandem omnēs tacitē sedēbāmus. 
+Deinde lentē surgēbāmus et ē raedā dēscendēbāmus. 
+Omnēs incolumēs erāmus, sed quam īrātus erat pater! o miserum raedārium!
+//end::Story[] 
+
+=== *Vocabulary*
+
+- māne, adv., in the morning
+
+- iocus, -ī, m., joke, prank
+
+- sōlum, floor
+
+=== *Questions*
+
+. Ubi māter et pater dormiēbant, \__________ a. Cornęlia lacrimat.
+
+. Cornēlius īrātus erat \__________ b. Cornēlius īrātus erat.
+
+. Cornēliī subitō audiunt Sextum, \__________ c. per viam iter faciēbāmus.
+
+. Ubi raeda in fossam dēscendit, \__________ d. quod Mārcus in lectō iacēbat.
+
+. Quamquam omnēs incomlumēs erant, \__________ e. quī identidem clāmat, "Tenē equōs!"

@@ -1,0 +1,48 @@
+//tag::Story[] 
+== *Chapter 13 – Reading Latin – Coming the Other Way*
+
+Celeriter faciēbat tabellārius quī epistulās cīvium praeclārōrum ferēbat.
+
+Equī erant dēfessī, sed tabellārius eōs identidem et ferōciter incitābat. 
+"Necesse est," mussābat tabellārius sollicitus, "hodiē Neāpolim advenīre."
+
+Mox raedam Cornēliānam procul cōnspicit.
+
+"Ecce, raeda! Tarda et magna est. 
+Ēheu! Ō mē miserum!" Deinde magnā vōce exclāmat, "Sed mihi necesse est festīnāre!" 
+Equōs ferōciter incitat, et, ubi ad raedam appropinquat, identidem clāmat, "Tenē equōs tuōs, raedārie!"
+
+Brevī tempore cisium tabellāriī raedam Cornēliānam magnā cum celeritāte praeterīre poterat. 
+"Fatue!" mussābat tabellārius sed mox gemēbat quod equī nōn iam celeriter currēbant sed lentē et magnā cum difficultāte ambulābant. 
+"Ēheu! Quid est? Equus claudus est. Necesse est mihi equum novum petere."
+//end::Story[] 
+
+=== *Vocabulary*
+
+- Neāpolim, to/at Naples
+
+- procul, adv., in the distance
+
+- tardus, slow
+
+- cisium, light two-wheeled carriage
+
+- celeritās, celeritātis, f., speed
+
+- praetereō, praeterīre, to go past
+
+- difficultās, difficultātis, f., difficulty
+
+- claudus, lame
+
+- novus, new
+
+=== *Questions*
+
+. Tabellārius epistulās mittēbat et iter lentē faciēbat.
+
+. Tabellārius hodiē Neāpolim advenīre nōlēbat.
+
+. Equī gemēbant quod nōn iam celeriter currēbant.
+
+. Necesse est cisium novum petere.
