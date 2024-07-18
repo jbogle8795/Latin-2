@@ -1,1 +1,0 @@
-include::../Assignments.adoc[tag=Assignment-019]

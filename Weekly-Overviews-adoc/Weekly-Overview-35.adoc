@@ -1,1 +1,0 @@
-include::../Weekly-Overviews.adoc[tag=Week-35]
