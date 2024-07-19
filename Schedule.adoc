@@ -33,25 +33,25 @@ There is no "Launch Work."
 
 //end::Weekly-Overview-3[]
 //tag::Assignment-001[]
-===== Monday, January 5, 2024
+===== Monday, August 5, 2024
 No work
 
 //end::Assignment-001[]
 //tag::Assignment-002[]
-===== Tuesday, January 6, 2024
+===== Tuesday, August 6, 2024
 We will cover the sysabus and discuss homework for the week.
 
 //end::Assignment-002[]
 //tag::Assignment-003[]
-===== Wednesday, January 7, 2024
+===== Wednesday, August 7, 2024
  
 //end::Assignment-003[]
 //tag::Assignment-004[]
-===== Thursday, January 8, 2024
+===== Thursday, August 8, 2024
 
 //end::Assignment-004[]
 //tag::Assignment-005[]
-===== Friday, January 9, 2024
+===== Friday, August 9, 2024
 
 //end::Assignment-005[]
 //tag::Quiz-01[]
@@ -68,15 +68,15 @@ Review Chapters 13-17
 4
 //end::Weekly-Overview-4[]
 //tag::Assignment-006[]
-===== Monday, January 12, 2024
+===== Monday, August 12, 2024
 
 //end::Assignment-006[]
 //tag::Assignment-007[]
-===== Tuesday, January 13, 2024
+===== Tuesday, August 13, 2024
 
 //end::Assignment-007[]
 //tag::Assignment-008[]
-===== Wednesday, January 14, 2024
+===== Wednesday, August 14, 2024
 
 //end::Assignment-008[]
 //tag::Assignment-009[]
