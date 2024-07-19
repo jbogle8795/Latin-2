@@ -1,1 +1,0 @@
-include::../Schedule.adoc[tag=Weekly-Overview-43]
