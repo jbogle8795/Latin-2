@@ -13,6 +13,8 @@
 ==== Week 1
 //tag::Week-1[]
 //tag::Weekly-Overview-1[]
+July 22-26
+
 There is no "Launch Work."
 //end::Weekly-Overview-1[]
 //end::Week-1[]
@@ -20,6 +22,8 @@ There is no "Launch Work."
 ==== Week 2
 //tag::Week-2
 //tag::Weekly-Overview-2[]
+July 29-Aug 2
+
 There is no "Launch Work."
 //end::Weekly-Overview-2[]
 //end::Week-2[]
@@ -34,6 +38,8 @@ Chapters 1-4
 4. Accusative and DO
 
 //tag::Weekly-Overview-3[]
+Aug 5-Aug 9
+
 We will begin to review material from Latin 1.
 
 We will review the Nominative and Accusative cases as well as third person verbs.
@@ -46,9 +52,9 @@ No work
 //end::Assignment-001[]
 //tag::Assignment-002[]
 ===== Tuesday, August 6, 2024
-We will cover the sysabus and discuss homework for the week.
+We covered the syllabus and discussed homework for the week.
 
-We translated the story for chapter 1 in class and began the story for chapter 2
+We translated the story for chapter 1 in class and began the story for chapter 2.
 
 //end::Assignment-002[]
 //tag::Assignment-003[]
@@ -57,16 +63,18 @@ Finish the story for chapter 2.
 
 Be mindful of noun and verb endings.
 
-Review vocabulary
+Review vocabulary.
  
 //end::Assignment-003[]
 //tag::Assignment-004[]
 ===== Thursday, August 8, 2024
 Translate the story for chapter 3.
 
+Upload the translations from chapters 2 and 3.
+
 Be mindful of noun and verb endings.
 
-Review vocabulary
+Review vocabulary.
 
 //end::Assignment-004[]
 //tag::Assignment-005[]
