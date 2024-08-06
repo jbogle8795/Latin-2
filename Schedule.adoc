@@ -34,7 +34,8 @@ Chapters 1-4
 4. Accusative and DO
 
 //tag::Weekly-Overview-3[]
-
+We will begin to review material from Latin 1.
+We will review the Nominative and Accusative cases as well as third person verbs.
 
 //end::Weekly-Overview-3[]
 //tag::Assignment-001[]
