@@ -26,7 +26,12 @@ There is no "Launch Work."
 
 ==== Week 3
 //tag::Week-3[]
+Chapters 1-4
 
+1. 1st declension
+2. singular vs plural nouns and verbs
+3. 2nd declension
+4. Accusative and DO
 
 //tag::Weekly-Overview-3[]
 
@@ -40,14 +45,21 @@ No work
 //tag::Assignment-002[]
 ===== Tuesday, August 6, 2024
 We will cover the sysabus and discuss homework for the week.
+We translated the story for chapter 1 in class and began the story for chapter 2
 
 //end::Assignment-002[]
 //tag::Assignment-003[]
 ===== Wednesday, August 7, 2024
+Finish the story for chapter 2.
+Be mindful of noun and verb endings.
+Review vocabulary
  
 //end::Assignment-003[]
 //tag::Assignment-004[]
 ===== Thursday, August 8, 2024
+Translate the story for chapter 3.
+Be mindful of noun and verb endings.
+Review vocabulary
 
 //end::Assignment-004[]
 //tag::Assignment-005[]
@@ -59,13 +71,20 @@ Quiz 1
 
 //end::Quiz-01[]
 //end::Week-3[]
-Review Chapters 13-17
 
 
 ==== Week 4
 //tag::Week-4[]
+Chapters 5-7
+
+5. Infinitive and Aeneas
+6. Infinitives, gender agreement, and The Slave Market
+7. 3rd Declension, plural accusatives, and Latin Villa. 
+7.1 Review section - Aeneas Leaves Troy
+
 //tag::Weekly-Overview-4[]
 4
+
 //end::Weekly-Overview-4[]
 //tag::Assignment-006[]
 ===== Monday, August 12, 2024
@@ -95,6 +114,15 @@ Quiz 2
 
 ==== Week 5
 //tag::Week-5[]
+Chapters 8-12
+
+8. Verbs - Person, Patria Potestas
+9. Ablatives, gods and goddesses
+10. Conjugations, Imperatives, Treatment of Slaves
+11. Genitive, Roman Names, and The Founding of Rome.
+12. Ablatives time when, time within which, what instrument, by what means, how, in what manner 
+12.1 On the banks of the Tiber
+
 //tag::Weekly-Overview-5[]
 5
 
@@ -129,7 +157,15 @@ Quiz 3
 
 ==== Week 6
 //tag::Week-6[]
-Review Chapters 18-21
+Chaptes 13-17
+
+13. 3rd i-stem, Imperfect, Adverb
+14. Imperfect, irregular verbs, The Kings of Rome.
+15. Neuter, Roman Numerals, numbers.
+16. Noun/adjective agreement, numbers.
+17. Irr. Verbs Review
+17.1 Roman Influence in the East
+
 //tag::Weekly-Overview-6[]
 6
 
@@ -162,16 +198,20 @@ Quiz 4
 
 ==== Week 7
 //tag::Week-7[]
+Chapters 1-17
 
 //tag::Weekly-Overview-7[]
 7
+
 //end::Weekly-Overview-7[]
 //tag::Assignment-021[]
 ===== Monday, September 2, 2024
+*Labor Day*
 
 //end::Assignment-021[]
 //tag::Assignment-022[]
 ===== Tuesday, September 3, 2024
+*Satellite Day*
 
 //end::Assignment-022[]
 //tag::Assignment-023[]
@@ -195,9 +235,16 @@ Test 1
 === Module 2 -- Review 2
 ==== Week 8
 //tag::Week-8[]
-Review Chapters 25-27
+Chapters 18-21
+
+18. 3rd declension adjectives, horatius, Mucius Scaevola, Cloelia, Cincinnatus
+19. Perfect Tense, Horace's Journey
+20. Perfect Tense, Subordinate Clauses with Dum, Infinitive Review
+21.
+
 //tag::Weekly-Overview-8[]
 8
+
 //end::Weekly-Overview-8[]
 //tag::Assignment-026[]
 ===== Monday, September 9, 2024
@@ -228,8 +275,11 @@ Quiz 5
 
 ==== Week 9
 //tag::Week-9[]
+Chapters 22-27
+
 //tag::Weekly-Overview-9[]
 9
+
 //end::Weekly-Overview-9[]
 //tag::Assignment-031[]
 ===== Monday, September 16, 2024
@@ -237,6 +287,7 @@ Quiz 5
 //end::Assignment-031[]
 //tag::Assignment-032[]
 ===== Tuesday, September 17, 2024
+*Chapel Day*
 
 //end::Assignment-032[]
 //tag::Assignment-033[]
@@ -259,8 +310,11 @@ Quiz 6
 
 ==== Week 10
 //tag::Week-10[]
+Chapters 18-27
+
 //tag::Weekly-Overview-10[]
 10
+
 //end::Weekly-Overview-10[]
 //end::Week-10[]
 
@@ -268,6 +322,7 @@ Quiz 6
 //tag::Week-11[]
 //tag::Weekly-Overview-11[]
 11
+
 //end::Weekly-Overview-11[]
 //tag::Assignment-036[]
 ===== Monday, September 30, 2024
@@ -303,8 +358,8 @@ Test 2
 ==== Week 12
 //tag::Week-12[]
 //tag::Weekly-Overview-12[]
-
 12
+
 //end::Weekly-Overview-12[]
 
 //tag::Assignment-041[]
@@ -337,6 +392,7 @@ Quiz 7
 //tag::Week-13[]
 //tag::Weekly-Overview-13[]
 13
+
 //end::Weekly-Overview-13[]
 //tag::Assignment-046[]
 ===== Monday, October 14, 2024
@@ -368,6 +424,7 @@ Quiz 8
 //tag::Week-14[]
 //tag::Weekly-Overview-14[]
 14
+
 //end::Weekly-Overview-14[]
 //tag::Assignment-051[]
 ===== Monday, October 21, 2024
@@ -375,6 +432,7 @@ Quiz 8
 //end::Assignment-051[]
 //tag::Assignment-052[]
 ===== Tuesday, October 22, 2024
+*Seminar Day*
 
 //end::Assignment-052[]
 //tag::Assignment-053[]
@@ -400,6 +458,7 @@ Quiz 9
 //tag::Week-15[]
 //tag::Weekly-Overview-15[]
 15
+
 //end::Weekly-Overview-15[]
 
 //tag::Assignment-056[]
@@ -441,6 +500,7 @@ Quiz 10
 //end::Assignment-061[]
 //tag::Assignment-062[]
 ===== Tuesday, November 5, 2024
+*Satellite Day*
 
 //end::Assignment-062[]
 //tag::Assignment-063[]
@@ -510,6 +570,7 @@ Quiz 11
 //end::Assignment-071[]
 //tag::Assignment-072[]
 ===== Tuesday, November 19, 2024
+*Chapel Day*
 
 //end::Assignment-072[]
 //tag::Assignment-073[]
@@ -551,6 +612,7 @@ Quiz 12
 //end::Assignment-076[]
 //tag::Assignment-077[]
 ===== Tuesday, December 3, 2024
+*Seminar Day*
 
 //end::Assignment-077[]
 //tag::Assignment-078[]
@@ -596,6 +658,7 @@ Quiz 13
 //end::Assignment-084[]
 //tag::Assignment-085[]
 ===== Friday, December 13, 2024
+*Last Day of School*
 
 //end::Assignment-085[]
 //tag::Test-04[]
@@ -622,24 +685,27 @@ Test 4
 //end::Weekly-Overview-22[]
 //tag::Assignment-086[]
 ===== Monday, December 30, 2024
-No work
+*Holiday*
 
 //end::Assignment-086[]
 //tag::Assignment-087[]
 ===== Tuesday, December 31, 2024
-We will cover the sysabus and discuss homework for the week.
+*Holiday*
 
 //end::Assignment-087[]
 //tag::Assignment-088[]
 ===== Wednesday, January 1, 2024
+*Holiday*
  
 //end::Assignment-088[]
 //tag::Assignment-089[]
 ===== Thursday, January 2, 2024
+*Satellite Day*
 
 //end::Assignment-089[]
 //tag::Assignment-090[]
 ===== Friday, January 3, 2024
+*Satellite Day*
 
 //end::Assignment-090[]
 //end::Week-22[]
@@ -652,24 +718,27 @@ Review Chapters 13-17
 23
 
 //end::Weekly-Overview-23[]
+*Teacher Work Day*
 //tag::Assignment-091[]
-===== Monday, January 6, 2024
+===== Monday, January 6, 2025
+*Satellite Day*
 
 //end::Assignment-091[]
+*First Day Back in Class*
 //tag::Assignment-092[]
-===== Tuesday, January 7, 2024
+===== Tuesday, January 7, 2025
 
 //end::Assignment-092[]
 //tag::Assignment-093[]
-===== Wednesday, January 8, 2024
+===== Wednesday, January 8, 2025
 
 //end::Assignment-093[]
 //tag::Assignment-094[]
-===== Thursday, January 9, 2024
+===== Thursday, January 9, 2025
 
 //end::Assignment-094[]
 //tag::Assignment-095[]
-===== Friday, January 10, 2024
+===== Friday, January 10, 2025
 
 //end::Assignment-095[]
 //tag::Quiz-14[]
@@ -686,23 +755,23 @@ Quiz 14
 //end::Weekly-Overview-24[]
 
 //tag::Assignment-096[]
-===== Monday, January 13, 2024
+===== Monday, January 13, 2025
 
 //end::Assignment-096[]
 //tag::Assignment-097[]
-===== Tuesday, January 14, 2024
+===== Tuesday, January 14, 2025
 
 //end::Assignment-097[]
 //tag::Assignment-098[]
-===== Wednesday, January 15, 2024
+===== Wednesday, January 15, 2025
 
 //end::Assignment-098[]
 //tag::Assignment-099[]
-===== Thursday, January 16, 2024
+===== Thursday, January 16, 2025
 
 //end::Assignment-099[]
 //tag::Assignment-100[]
-===== Friday, January 17, 2024
+===== Friday, January 17, 2025
 
 //end::Assignment-100[]
 //tag::Quiz-15[]
@@ -720,23 +789,24 @@ Review Chapters 18-21
 
 //end::Weekly-Overview-25[]
 //tag::Assignment-101[]
-===== Monday, January 20, 2024
+===== Monday, January 20, 2025
+*Holiday-MLK Day*
 
 //end::Assignment-101[]
 //tag::Assignment-102[]
-===== Tuesday, January 21, 2024
+===== Tuesday, January 21, 2025
 
 //end::Assignment-102[]
 //tag::Assignment-103[]
-===== Wednesday, January 22, 2024
+===== Wednesday, January 22, 2025
 
 //end::Assignment-103[]
 //tag::Assignment-104[]
-===== Thursday, January 23, 2024
+===== Thursday, January 23, 2025
 
 //end::Assignment-104[]
 //tag::Assignment-105[]
-===== Friday, January 24, 2024
+===== Friday, January 24, 2025
 
 //end::Assignment-105[]
 //tag::Quiz-16[]
@@ -753,23 +823,23 @@ Review Chapters 22-24
 
 //end::Weekly-Overview-26[]
 //tag::Assignment-106[]
-===== Monday, January 27, 2024
+===== Monday, January 27, 2025
 
 //end::Assignment-106[]
 //tag::Assignment-107[]
-===== Tuesday, January 28, 2024
+===== Tuesday, January 28, 2025
 
 //end::Assignment-107[]
 //tag::Assignment-108[]
-===== Wednesday, January 29, 2024
+===== Wednesday, January 29, 2025
 
 //end::Assignment-108[]
 //tag::Assignment-109[]
-===== Thursday, January 30, 2024
+===== Thursday, January 30, 2025
 
 //end::Assignment-109[]
 //tag::Assignment-110[]
-===== Friday, January 31, 2024
+===== Friday, January 31, 2025
 
 //end::Assignment-110[]
 //tag::Test-05[]
@@ -787,23 +857,23 @@ Review Chapters 25-27
 
 //end::Weekly-Overview-27[]
 //tag::Assignment-111[]
-===== Monday, Feburary 3, 2024
+===== Monday, February 3, 2025
 
 //end::Assignment-111[]
 //tag::Assignment-112[]
-===== Tuesday, Feburary 4, 2024
+===== Tuesday, February 4, 2025
 
 //end::Assignment-112[]
 //tag::Assignment-113[]
-===== Wednesday, Feburary 5, 2024
+===== Wednesday, February 5, 2025
 
 //end::Assignment-113[]
 //tag::Assignment-114[]
-===== Thursday, Feburary 6, 2024
+===== Thursday, February 6, 2025
 
 //end::Assignment-114[]
 //tag::Assignment-115[]
-===== Friday, Feburary 7, 2024
+===== Friday, February 7, 2025
 
 //end::Assignment-115[]
 //tag::Quiz-17[]
@@ -820,23 +890,23 @@ Quiz 17
 
 //end::Weekly-Overview-28[]
 //tag::Assignment-116[]
-===== Monday, Feburary 10, 2024
+===== Monday, February 10, 2025
 
 //end::Assignment-116[]
 //tag::Assignment-117[]
-===== Tuesday, Feburary 11, 2024
+===== Tuesday, February 11, 2025
 
 //end::Assignment-117[]
 //tag::Assignment-118[]
-===== Wednesday, Feburary 12, 2024
+===== Wednesday, February 12, 2025
 
 //end::Assignment-118[]
 //tag::Assignment-119[]
-===== Thursday, Feburary 13, 2024
+===== Thursday, February 13, 2025
 
 //end::Assignment-119[]
 //tag::Assignment-120[]
-===== Friday, Feburary 14, 2024
+===== Friday, February 14, 2025
 
 //end::Assignment-120[]
 //tag::Quiz-18[]
@@ -852,23 +922,24 @@ Quiz 18
 
 //end::Weekly-Overview-29[]
 //tag::Assignment-121[]
-===== Monday, Feburary 17, 2024
+===== Monday, February 17, 2025
 
 //end::Assignment-121[]
 //tag::Assignment-122[]
-===== Tuesday, Feburary 18, 2024
+===== Tuesday, February 18, 2025
 
 //end::Assignment-122[]
 //tag::Assignment-123[]
-===== Wednesday, Feburary 19, 2024
+===== Wednesday, February 19, 2025
 
 //end::Assignment-123[]
 //tag::Assignment-124[]
-===== Thursday, Feburary 20, 2024
+===== Thursday, February 20, 2025
 
 //end::Assignment-124[]
 //tag::Assignment-125[]
-===== Friday, Feburary 21, 2024
+===== Friday, February 21, 2025
+*Winter Holiday*
 
 //end::Assignment-125[]
 //tag::Quiz-19[]
@@ -887,23 +958,23 @@ Quiz 19
 //end::Weekly-Overview-30[]
 
 //tag::Assignment-126[]
-===== Monday, Feburary 24, 2024
+===== Monday, February 24, 2025
 
 //end::Assignment-126[]
 //tag::Assignment-127[]
-===== Tuesday, Feburary 25, 2024
+===== Tuesday, February 25, 2025
 
 //end::Assignment-127[]
 //tag::Assignment-128[]
-===== Wednesday, Feburary 26, 2024
+===== Wednesday, February 26, 2025
 
 //end::Assignment-128[]
 //tag::Assignment-129[]
-===== Thursday, Feburary 27, 2024
+===== Thursday, February 27, 2025
 
 //end::Assignment-129[]
 //tag::Assignment-130[]
-===== Friday, Feburary 28, 2024
+===== Friday, February 28, 2025
 
 //end::Assignment-130[]
 //tag::Quiz-20[]
@@ -919,23 +990,23 @@ Quiz 20
 
 //end::Weekly-Overview-31[]
 //tag::Assignment-131[]
-===== Monday, March 3, 2024
+===== Monday, March 3, 2025
 
 //end::Assignment-131[]
 //tag::Assignment-132[]
-===== Tuesday, March 4, 2024
+===== Tuesday, March 4, 2025
 
 //end::Assignment-132[]
 //tag::Assignment-133[]
-===== Wednesday, March 5, 2024
+===== Wednesday, March 5, 2025
 
 //end::Assignment-133[]
 //tag::Assignment-134[]
-===== Thursday, March 6, 2024
+===== Thursday, March 6, 2025
 
 //end::Assignment-134[]
 //tag::Assignment-135[]
-===== Friday, March 7, 2024
+===== Friday, March 7, 2025
 
 //end::Assignment-135[]
 //tag::Test-06[]
@@ -954,23 +1025,23 @@ Test 6
 
 //end::Weekly-Overview-32[]
 //tag::Assignment-136[]
-===== Monday, March 10, 2024
+===== Monday, March 10, 2025
 
 //end::Assignment-136[]
 //tag::Assignment-137[]
-===== Tuesday, March 11, 2024
+===== Tuesday, March 11, 2025
 
 //end::Assignment-137[]
 //tag::Assignment-138[]
-===== Wednesday, March 12, 2024
+===== Wednesday, March 12, 2025
 
 //end::Assignment-138[]
 //tag::Assignment-139[]
-===== Thursday, March 13, 2024
+===== Thursday, March 13, 2025
 
 //end::Assignment-139[]
 //tag::Assignment-140[]
-===== Friday, March 14, 2024
+===== Friday, March 14, 2025
 
 //end::Assignment-140[]
 //tag::Quiz-21[]
@@ -988,23 +1059,25 @@ Quiz 21
 //end::Weekly-Overview-33[]
 
 //tag::Assignment-141[]
-===== Monday, March 17, 2024
+===== Monday, March 17, 2025
 
 //end::Assignment-141[]
 //tag::Assignment-142[]
-===== Tuesday, March 18, 2024
+===== Tuesday, March 18, 2025
+*Seminar Day*
+
 
 //end::Assignment-142[]
 //tag::Assignment-143[]
-===== Wednesday, March 19, 2024
+===== Wednesday, March 19, 2025
 
 //end::Assignment-143[]
 //tag::Assignment-144[]
-===== Thursday, March 20, 2024
+===== Thursday, March 20, 2025
 
 //end::Assignment-144[]
 //tag::Assignment-145[]
-===== Friday, March 21, 2024
+===== Friday, March 21, 2025
 
 //end::Assignment-145[]
 //tag::Quiz-22[]
@@ -1021,23 +1094,23 @@ Quiz 22
 //end::Weekly-Overview-34[]
 
 //tag::Assignment-146[]
-===== Monday, March 24, 2024
+===== Monday, March 24, 2025
 
 //end::Assignment-146[]
 //tag::Assignment-147[]
-===== Tuesday, March 25, 2024
+===== Tuesday, March 25, 2025
 
 //end::Assignment-147[]
 //tag::Assignment-148[]
-===== Wednesday, March 26, 2024
+===== Wednesday, March 26, 2025
 
 //end::Assignment-148[]
 //tag::Assignment-149[]
-===== Thursday, March 27, 2024
+===== Thursday, March 27, 2025
 
 //end::Assignment-149[]
 //tag::Assignment-150[]
-===== Friday, March 28, 2024
+===== Friday, March 28, 2025
 
 //end::Assignment-150[]
 //tag::Quiz-23[]
@@ -1057,23 +1130,23 @@ Quiz 23
 //end::Weekly-Overview-35[]
 
 //tag::Assignment-151[]
-===== Monday, March 31, 2024
+===== Monday, March 31, 2025
 
 //end::Assignment-151[]
 //tag::Assignment-152[]
-===== Tuesday, April 1, 2024
+===== Tuesday, April 1, 2025
 
 //end::Assignment-152[]
 //tag::Assignment-153[]
-===== Wednesday, April 2, 2024
+===== Wednesday, April 2, 2025
 
 //end::Assignment-153[]
 //tag::Assignment-154[]
-===== Thursday, April 3, 2024
+===== Thursday, April 3, 2025
 
 //end::Assignment-154[]
 //tag::Assignment-155[]
-===== Friday, April 4, 2024
+===== Friday, April 4, 2025
 
 //end::Assignment-155[]
 //tag::Test-07[]
@@ -1101,23 +1174,23 @@ Test 7
 
 //end::Weekly-Overview-37[]
 //tag::Assignment-156[]
-===== Monday, April 14, 2024
+===== Monday, April 14, 2025
 
 //end::Assignment-156[]
 //tag::Assignment-157[]
-===== Tuesday, April 15, 2024
+===== Tuesday, April 15, 2025
 
 //end::Assignment-157[]
 //tag::Assignment-158[]
-===== Wednesday, April 16, 2024
+===== Wednesday, April 16, 2025
 
 //end::Assignment-158[]
 //tag::Assignment-159[]
-===== Thursday, April 17, 2024
+===== Thursday, April 17, 2025
 
 //end::Assignment-159[]
 //tag::Assignment-160[]
-===== Friday, April 18, 2024
+===== Friday, April 18, 2025
 
 //end::Assignment-160[]
 //tag::Quiz-24[]
@@ -1134,23 +1207,23 @@ Quiz 24
 //end::Weekly-Overview-38[]
 
 //tag::Assignment-161[]
-===== Monday, April 21, 2024
+===== Monday, April 21, 2025
 
 //end::Assignment-161[]
 //tag::Assignment-162[]
-===== Tuesday, April 22, 2024
+===== Tuesday, April 22, 2025
 
 //end::Assignment-162[]
 //tag::Assignment-163[]
-===== Wednesday, April 23, 2024
+===== Wednesday, April 23, 2025
 
 //end::Assignment-163[]
 //tag::Assignment-164[]
-===== Thursday, April 24, 2024
+===== Thursday, April 24, 2025
 
 //end::Assignment-164[]
 //tag::Assignment-165[]
-===== Friday, April 25, 2024
+===== Friday, April 25, 2025
 
 //end::Assignment-165[]
 //tag::Quiz-25[]
@@ -1167,23 +1240,23 @@ Quiz 25
 //end::Weekly-Overview-39[]
 
 //tag::Assignment-166[]
-===== Monday, April 28, 2024
+===== Monday, April 28, 2025
 
 //end::Assignment-166[]
 //tag::Assignment-167[]
-===== Tuesday, April 29, 2024
+===== Tuesday, April 29, 2025
 
 //end::Assignment-167[]
 //tag::Assignment-168[]
-===== Wednesday, April 30, 2024
+===== Wednesday, April 30, 2025
 
 //end::Assignment-168[]
 //tag::Assignment-169[]
-===== Thursday, May 1, 2024
+===== Thursday, May 1, 2025
 
 //end::Assignment-169[]
 //tag::Assignment-170[]
-===== Friday, May 2, 2024
+===== Friday, May 2, 2025
 
 //end::Assignment-170[]
 //tag::Quiz-26[]
@@ -1201,23 +1274,23 @@ Quiz 26
 //end::Weekly-Overview-40[]
 
 //tag::Assignment-171[]
-===== Monday, May 5, 2024
+===== Monday, May 5, 2025
 
 //end::Assignment-171[]
 //tag::Assignment-172[]
-===== Tuesday, May 6, 2024
+===== Tuesday, May 6, 2025
 
 //end::Assignment-172[]
 //tag::Assignment-173[]
-===== Wednesday, May 7, 2024
+===== Wednesday, May 7, 2025
 
 //end::Assignment-173[]
 //tag::Assignment-174[]
-===== Thursday, May 8, 2024
+===== Thursday, May 8, 2025
 
 //end::Assignment-174[]
 //tag::Assignment-175[]
-===== Friday, May 9, 2024
+===== Friday, May 9, 2025
 
 //end::Assignment-175[]
 //tag::Quiz-27[]
@@ -1234,23 +1307,23 @@ Quiz 27
 //end::Weekly-Overview-41[]
 
 //tag::Assignment-176[]
-===== Monday, May 12, 2024
+===== Monday, May 12, 2025
 
 //end::Assignment-176[]
 //tag::Assignment-177[]
-===== Tuesday, May 13, 2024
+===== Tuesday, May 13, 2025
 
 //end::Assignment-177[]
 //tag::Assignment-178[]
-===== Wednesday, May 14, 2024
+===== Wednesday, May 14, 2025
 
 //end::Assignment-178[]
 //tag::Assignment-179[]
-===== Thursday, May 15, 2024
+===== Thursday, May 15, 2025
 
 //end::Assignment-179[]
 //tag::Assignment-180[]
-===== Friday, May 16, 2024
+===== Friday, May 16, 2025
 
 //end::Assignment-180[]
 //tag::Test-08[]
