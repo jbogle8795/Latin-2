@@ -35,6 +35,7 @@ Chapters 1-4
 
 //tag::Weekly-Overview-3[]
 We will begin to review material from Latin 1.
+
 We will review the Nominative and Accusative cases as well as third person verbs.
 
 //end::Weekly-Overview-3[]
@@ -46,20 +47,25 @@ No work
 //tag::Assignment-002[]
 ===== Tuesday, August 6, 2024
 We will cover the sysabus and discuss homework for the week.
+
 We translated the story for chapter 1 in class and began the story for chapter 2
 
 //end::Assignment-002[]
 //tag::Assignment-003[]
 ===== Wednesday, August 7, 2024
 Finish the story for chapter 2.
+
 Be mindful of noun and verb endings.
+
 Review vocabulary
  
 //end::Assignment-003[]
 //tag::Assignment-004[]
 ===== Thursday, August 8, 2024
 Translate the story for chapter 3.
+
 Be mindful of noun and verb endings.
+
 Review vocabulary
 
 //end::Assignment-004[]
