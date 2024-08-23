@@ -227,6 +227,7 @@ https://drive.google.com/file/d/1RjY7fZSU3xyHI6dhh8oZ3nHrp4omDR94/view?usp=share
 
 Study 
 https://drive.google.com/file/d/1Rhb2GS2su62c9scEnUY6yFVh2DAuw8JO/view?usp=share_link[Chapter 8 and 9 Vocabulary]
+and
 https://drive.google.com/file/d/1RlK01qXR9NXhLE1tfDr_6xAU5VQD96pI/view?usp=share_link[Chapter 10-12 Vocabulary]
 
 //end::Assignment-013[]
@@ -240,6 +241,7 @@ Upload the translations for chapters 10, 11, and 12.
 
 Study 
 https://drive.google.com/file/d/1Rhb2GS2su62c9scEnUY6yFVh2DAuw8JO/view?usp=share_link[Chapter 8 and 9 Vocabulary]
+and 
 https://drive.google.com/file/d/1RlK01qXR9NXhLE1tfDr_6xAU5VQD96pI/view?usp=share_link[Chapter 10-12 Vocabulary]
 
 
@@ -249,9 +251,11 @@ https://drive.google.com/file/d/1RlK01qXR9NXhLE1tfDr_6xAU5VQD96pI/view?usp=share
 ===== Friday, August 23, 2024
 We will review the translations for chapters 11 and 12.
 
+We will translate chapter 13 in class. https://drive.google.com/file/d/1RsxHQDqZ-xcWDvpEHQjamwAtgh5c4BDD/view?usp=share_link[Chapter 13-17 Stories]
+
 //end::Assignment-015[]
 //tag::Quiz-03[]
-Quiz 3
+We will have a quiz over the vocabulary for chapters 8-12, personal verb endings, imperatives, ablatives, and genitives. 
 
 //end::Quiz-03[]
 //end::Week-5[]
@@ -269,23 +273,37 @@ Chaptes 13-17
 17.1 Roman Influence in the East
 
 //tag::Weekly-Overview-6[]
-6
+We will review the Imperfect verb forms, 1st-3rd declensions, and noun/adjective agreement.
 
 //end::Weekly-Overview-6[]
 //tag::Assignment-016[]
 ===== Monday, August 26, 2024
+Study Vocabulary. https://drive.google.com/file/d/1RzNbrB7EHVARoIegWjguMzsuvrxhRvuf/view?usp=sharing[Chapter 13-17 Vocabulary]
+
+Translate Chapter 14. https://drive.google.com/file/d/1RsxHQDqZ-xcWDvpEHQjamwAtgh5c4BDD/view?usp=share_link[Chapter 13-17 Stories]
+
+Submit Chapters 13 and 14.
 
 //end::Assignment-016[]
 //tag::Assignment-017[]
 ===== Tuesday, August 27, 2024
+We will translate chapter 15. https://drive.google.com/file/d/1RsxHQDqZ-xcWDvpEHQjamwAtgh5c4BDD/view?usp=share_link[Chapter 13-17 Stories]
 
 //end::Assignment-017[]
 //tag::Assignment-018[]
 ===== Wednesday, August 28, 2024
+Study Vocabulary. https://drive.google.com/file/d/1RzNbrB7EHVARoIegWjguMzsuvrxhRvuf/view?usp=sharing[Chapter 13-17 Vocabulary]
+
+Translate chapter 16. https://drive.google.com/file/d/1RsxHQDqZ-xcWDvpEHQjamwAtgh5c4BDD/view?usp=share_link[Chapter 13-17 Stories]
 
 //end::Assignment-018[]
 //tag::Assignment-019[]
 ===== Thursday, August 29, 2024
+Study Vocabulary. https://drive.google.com/file/d/1RzNbrB7EHVARoIegWjguMzsuvrxhRvuf/view?usp=sharing[Chapter 13-17 Vocabulary]
+
+Translate chapter 17. https://drive.google.com/file/d/1RsxHQDqZ-xcWDvpEHQjamwAtgh5c4BDD/view?usp=share_link[Chapter 13-17 Stories]
+
+Submit chapters 15-17.
 
 //end::Assignment-019[]
 //tag::Assignment-020[]
@@ -293,7 +311,7 @@ Chaptes 13-17
 
 //end::Assignment-020[]
 //tag::Quiz-04[]
-Quiz 4
+Quiz over the vocabulary for chapters 12-17, imperfect verbs, 1st-3rd declension nouns, and adjective agreement.
 
 //end::Quiz-04[]
 //end::Week-6[]
