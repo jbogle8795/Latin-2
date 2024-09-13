@@ -473,6 +473,11 @@ Review https://drive.google.com/file/d/1mM9GKfoezzPprVOJh-FSW-qnKdHHg6HU/view?us
 //tag::Assignment-030[]
 ===== Friday, September 13, 2024
 
+We will review the dative case and future tense.
+
+We will translate 
+https://drive.google.com/file/d/1uwgiq1Ayd-Gi7GMZ7B1O_KsJXjZwY244/view?usp=share_link[Chapter 22].
+
 //end::Assignment-030[]
 //tag::Quiz-05[]
 Quiz over chapters 18-21.
@@ -483,35 +488,54 @@ Quiz over chapters 18-21.
 
 ==== Week 9
 //tag::Week-9[]
-Chapters 22-27
+Chapters 22-24
 
 //tag::Weekly-Overview-9[]
-9
+We will learn about the dative case and distinguishing them from ablatives. We will also learn the future tense.
 
 //end::Weekly-Overview-9[]
 //tag::Assignment-031[]
 ===== Monday, September 16, 2024
+Study 
+https://drive.google.com/file/d/1uwgiq1Ayd-Gi7GMZ7B1O_KsJXjZwY244/view?usp=share_link[Vocabulary for Chapters 22-24]
+
+Turn in your thanslation of 
+https://drive.google.com/file/d/1uwgiq1Ayd-Gi7GMZ7B1O_KsJXjZwY244/view?usp=share_link[chapter 22].
+
 
 //end::Assignment-031[]
 //tag::Assignment-032[]
 ===== Tuesday, September 17, 2024
 *Chapel Day*
+We will review the dative case and future tense. Then we will translate 
+https://drive.google.com/file/d/1uwgiq1Ayd-Gi7GMZ7B1O_KsJXjZwY244/view?usp=share_link[chapter 23].
 
 //end::Assignment-032[]
 //tag::Assignment-033[]
 ===== Wednesday, September 18, 2024
+Translate 
+https://drive.google.com/file/d/1uwgiq1Ayd-Gi7GMZ7B1O_KsJXjZwY244/view?usp=share_link[chapter 24].
 
 //end::Assignment-033[]
 //tag::Assignment-034[]
 ===== Thursday, September 19, 2024
+Review the vocabulary and grammar for chapters 22-24.
+
+https://drive.google.com/file/d/1uwgiq1Ayd-Gi7GMZ7B1O_KsJXjZwY244/view?usp=share_link[Vocabulary for Chapters 22-24]
+
+Submit your translations for 
+https://drive.google.com/file/d/1uwgiq1Ayd-Gi7GMZ7B1O_KsJXjZwY244/view?usp=share_link[chapters 23 and 24].
 
 //end::Assignment-034[]
 //tag::Assignment-035[]
 ===== Friday, September 20, 2024
 
+
 //end::Assignment-035[]
 //tag::Quiz-06[]
-Quiz 6
+We will have a quiz over the vocabulary and grammar for chapters 22-24.
+
+Make sure you study the verb and noun endings we have covered so far.
 
 //end::Quiz-06[]
 //end::Week-9[]
