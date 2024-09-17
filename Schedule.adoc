@@ -536,7 +536,7 @@ https://drive.google.com/file/d/1uwgiq1Ayd-Gi7GMZ7B1O_KsJXjZwY244/view?usp=share
 //tag::Quiz-06[]
 We will have a quiz over the vocabulary and grammar for chapters 22-24.
 
-Make sure you study the verb and noun endings we have covered so far.
+This will cover the present, imperfect, future, and perfect tenses. We will cover the dative case in another quiz.
 
 //end::Quiz-06[]
 //end::Week-9[]
