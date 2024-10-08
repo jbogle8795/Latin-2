@@ -678,7 +678,17 @@ D) those men
 //tag::Quiz-07[]
 We will have a quiz over the vocabulary and grammar for chapters 25-27.
 
-The grammar will focus on nouns, pronouns, and adjectives including the 4th and 5th declension, hic, ille, and personal pronouns.
+The grammar will focus on nouns, pronouns, and adjectives including the 4th and 5th declension, hic, and ille.
+
+Sample quiz questions
+What is the case of nōmen?
+What is the gender and number of nōmen?
+What is the best translation of hic?
+
+A) this man
+B) these men
+C) that man
+D) those men
 
 //end::Quiz-07[]
 //end::Week-12[]
