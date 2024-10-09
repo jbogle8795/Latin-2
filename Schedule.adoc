@@ -641,7 +641,7 @@ in class.
 Finish 
 https://drive.google.com/file/d/1thYgm2_9SlfnY7H8kwA4_9Cd30SNSQ6U/view?usp=share_link[Chapters 25 and 26]
 
-Review https://drive.google.com/file/d/1thYgm2_9SlfnY7H8kwA4_9Cd30SNSQ6U/view?usp=sharing[Vocabulary for Chapters 25-27]
+Review https://drive.google.com/file/d/1fJhECWRtztacNRoBbpL0e8PEpSZHdaHp/view?usp=share_link[Vocabulary for Chapters 25 and 26]
 
 Sample quiz questions
 
@@ -662,7 +662,7 @@ D) those men
 Submit
 https://drive.google.com/file/d/1thYgm2_9SlfnY7H8kwA4_9Cd30SNSQ6U/view?usp=share_link[Chapters 25 and 26]
 
-Review https://drive.google.com/file/d/1thYgm2_9SlfnY7H8kwA4_9Cd30SNSQ6U/view?usp=sharing[Vocabulary for Chapters 25-27]
+Review https://drive.google.com/file/d/1fJhECWRtztacNRoBbpL0e8PEpSZHdaHp/view?usp=share_link[Vocabulary for Chapters 25 and 26]
 
 Sample quiz questions
 
@@ -685,7 +685,8 @@ D) those men
 
 //end::Assignment-045[]
 //tag::Quiz-07[]
-We will have a quiz over the vocabulary and grammar for chapters 25-27.
+We will have a quiz over the 
+https://drive.google.com/file/d/1fJhECWRtztacNRoBbpL0e8PEpSZHdaHp/view?usp=share_link[Vocabulary for chapters 25 and 26] and grammar for chapters 25-26.
 
 The grammar will focus on nouns, pronouns, and adjectives including the 4th and 5th declension, hic, and ille.
 
@@ -701,6 +702,7 @@ A) this man
 B) these men
 C) that man
 D) those men
+
 
 //end::Quiz-07[]
 //end::Week-12[]
