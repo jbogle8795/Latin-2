@@ -710,23 +710,46 @@ D) those men
 ==== Week 13
 //tag::Week-13[]
 //tag::Weekly-Overview-13[]
-13
+We will learn about personal pronouns, possive adjectives, and relative pronouns.
 
 //end::Weekly-Overview-13[]
 //tag::Assignment-046[]
 ===== Monday, October 14, 2024
 
+Translate and submit
+https://drive.google.com/file/d/1thYgm2_9SlfnY7H8kwA4_9Cd30SNSQ6U/view?usp=share_link[Chapter 27]
+
+Study
+https://drive.google.com/file/d/1fJhECWRtztacNRoBbpL0e8PEpSZHdaHp/view?usp=share_link[Chapter 27 Vocabulary]
+and
+https://drive.google.com/file/d/10agcDfbaLjHG26e-hdRzLdxEYvH8ZRas/view?usp=share_link[Chapter 28 Vocabulary]
+
 //end::Assignment-046[]
 //tag::Assignment-047[]
 ===== Tuesday, October 15, 2024
+
 
 //end::Assignment-047[]
 //tag::Assignment-048[]
 ===== Wednesday, October 16, 2024
 
+Translate https://drive.google.com/file/d/10gmC0zWq-lXJa8I_OpEgeBTIOqEeLoMZ/view?usp=share_link[Chapter 28].
+
+Study
+https://drive.google.com/file/d/1fJhECWRtztacNRoBbpL0e8PEpSZHdaHp/view?usp=share_link[Chapter 27 Vocabulary]
+and
+https://drive.google.com/file/d/10agcDfbaLjHG26e-hdRzLdxEYvH8ZRas/view?usp=share_link[Chapter 28 Vocabulary]
+
 //end::Assignment-048[]
 //tag::Assignment-049[]
 ===== Thursday, October 17, 2024
+Submit https://drive.google.com/file/d/10gmC0zWq-lXJa8I_OpEgeBTIOqEeLoMZ/view?usp=share_link[Chapter 28].
+
+
+Study
+https://drive.google.com/file/d/1fJhECWRtztacNRoBbpL0e8PEpSZHdaHp/view?usp=share_link[Chapter 27 Vocabulary]
+and
+https://drive.google.com/file/d/10agcDfbaLjHG26e-hdRzLdxEYvH8ZRas/view?usp=share_link[Chapter 28 Vocabulary]
 
 //end::Assignment-049[]
 //tag::Assignment-050[]
@@ -734,7 +757,7 @@ D) those men
 
 //end::Assignment-050[]
 //tag::Quiz-08[]
-Quiz 8
+We will have a quiz over chapters 27-28 vocabulary, personal pronouns, possive adjectives, and relative pronouns.
 
 //end::Quiz-08[]
 //end::Week-13[]
