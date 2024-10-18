@@ -773,6 +773,7 @@ We are learning more qu- words and reviewing old ones.
 Finish translating https://drive.google.com/file/d/13X9QXqWn6wNz-Eo5PhKl487EFty6e47x/view?usp=share_link[Chapter 29 Story]
 
 Study https://drive.google.com/file/d/13Y9vr7FzjH3uiKXoOeJYLoCGa7S7bhZB/view?usp=share_link[Chapter 29 Vocabulary]
+
 //end::Assignment-051[]
 //tag::Assignment-052[]
 ===== Tuesday, October 22, 2024
