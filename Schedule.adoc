@@ -619,7 +619,7 @@ The test will cover vocabulary from chapers 18-24. It will cover all six verb te
 ==== Week 12
 //tag::Week-12[]
 //tag::Weekly-Overview-12[]
-12
+We will study nouns, pronouns, and adjectives including the 4th and 5th declension, hic, and ille.
 
 //end::Weekly-Overview-12[]
 
@@ -757,7 +757,7 @@ https://drive.google.com/file/d/10agcDfbaLjHG26e-hdRzLdxEYvH8ZRas/view?usp=share
 
 //end::Assignment-050[]
 //tag::Quiz-08[]
-We will have a quiz over chapters 27-28 vocabulary, personal pronouns, possive adjectives, and relative pronouns.
+We will have a quiz over chapters 27-28 vocabulary, personal pronouns and relative pronouns.
 
 //end::Quiz-08[]
 //end::Week-13[]
@@ -765,12 +765,14 @@ We will have a quiz over chapters 27-28 vocabulary, personal pronouns, possive a
 ==== Week 14
 //tag::Week-14[]
 //tag::Weekly-Overview-14[]
-14
+We are learning more qu- words and reviewing old ones.
 
 //end::Weekly-Overview-14[]
 //tag::Assignment-051[]
 ===== Monday, October 21, 2024
+Finish translating https://drive.google.com/file/d/13X9QXqWn6wNz-Eo5PhKl487EFty6e47x/view?usp=share_link[Chapter 29 Story]
 
+Study https://drive.google.com/file/d/13Y9vr7FzjH3uiKXoOeJYLoCGa7S7bhZB/view?usp=share_link[Chapter 29 Vocabulary]
 //end::Assignment-051[]
 //tag::Assignment-052[]
 ===== Tuesday, October 22, 2024
