@@ -779,13 +779,28 @@ Study https://drive.google.com/file/d/13Y9vr7FzjH3uiKXoOeJYLoCGa7S7bhZB/view?usp
 ===== Tuesday, October 22, 2024
 *Seminar Day*
 
+For 29c give the gender, number, and case of relative pronouns.
+For 29d give the correct form of the relative pronoun.
+
 //end::Assignment-052[]
 //tag::Assignment-053[]
 ===== Wednesday, October 23, 2024
+For 29e follow the instructions to identify the type of qu- word.
+
+Translate the sentences of 29e.
+
+Study
+https://drive.google.com/file/d/13Y9vr7FzjH3uiKXoOeJYLoCGa7S7bhZB/view?usp=share_link[Chapter 29 Vocabulary]
+
 
 //end::Assignment-053[]
 //tag::Assignment-054[]
 ===== Thursday, October 24, 2024
+Submit 29c, d, and e.
+
+Study
+https://drive.google.com/file/d/13Y9vr7FzjH3uiKXoOeJYLoCGa7S7bhZB/view?usp=share_link[Chapter 29 Vocabulary]
+
 
 //end::Assignment-054[]
 //tag::Assignment-055[]
@@ -793,7 +808,7 @@ Study https://drive.google.com/file/d/13Y9vr7FzjH3uiKXoOeJYLoCGa7S7bhZB/view?usp
 
 //end::Assignment-055[]
 //tag::Quiz-09[]
-Quiz 9
+We will have a quiz over vocabulary and qu- words.
 
 //end::Quiz-09[]
 //end::Week-14[]
