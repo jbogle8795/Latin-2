@@ -817,12 +817,15 @@ We will have a quiz over vocabulary and qu- words.
 ==== Week 15
 //tag::Week-15[]
 //tag::Weekly-Overview-15[]
-15
+We will continue learning vocabulary.
 
 //end::Weekly-Overview-15[]
 
 //tag::Assignment-056[]
 ===== Monday, October 28, 2024
+
+Translate and upload pages 1 and 2 of the translation.
+
 
 //end::Assignment-056[]
 //tag::Assignment-057[]
