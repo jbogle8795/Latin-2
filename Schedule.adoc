@@ -870,18 +870,26 @@ Quiz 10
 //tag::Assignment-061[]
 ===== Monday, November 4, 2024
 
+Complete 30d and 29h.
+
 //end::Assignment-061[]
 //tag::Assignment-062[]
 ===== Tuesday, November 5, 2024
 *Satellite Day*
 
+Upload 30d and 29h.
+
 //end::Assignment-062[]
 //tag::Assignment-063[]
 ===== Wednesday, November 6, 2024
 
+Study for your test over chapters 27-30.
+
 //end::Assignment-063[]
 //tag::Assignment-064[]
 ===== Thursday, November 7, 2024
+
+Study for your test over chapters 27-30.
 
 //end::Assignment-064[]
 //tag::Assignment-065[]
@@ -889,7 +897,9 @@ Quiz 10
 
 //end::Assignment-065[]
 //tag::Test-03[]
-Test 3
+
+
+Test over chapters 27-30.
 
 //end::Test-03[]
 //end::Week-16[]
