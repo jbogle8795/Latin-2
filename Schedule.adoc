@@ -870,14 +870,14 @@ Quiz 10
 //tag::Assignment-061[]
 ===== Monday, November 4, 2024
 
-Complete 30b and 29h.
+Complete 30c and 29h.
 
 //end::Assignment-061[]
 //tag::Assignment-062[]
 ===== Tuesday, November 5, 2024
 *Satellite Day*
 
-Upload 30b and 29h.
+Upload 30c and 29h.
 
 //end::Assignment-062[]
 //tag::Assignment-063[]
