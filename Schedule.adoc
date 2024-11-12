@@ -935,7 +935,7 @@ https://drive.google.com/open?id=16oeSzjKj6hqqSUI8o3pgC6F4LIEKAWLq&usp=drive_fs[
 
 Complete 31c on page 34 by writing the correct word. Then Translate the sentence.
 
-Complete 31d on page 35 by writing the correct word. Then Translate the sentence.
+// Complete 31d on page 35 by writing the correct word. Then Translate the sentence.
 
 Study 
 https://drive.google.com/open?id=15Sbic1JNBe47X5Dfusk-tbNppIhKTpdg&usp=drive_fs[Chapter 31 Vocabulary]
@@ -944,7 +944,8 @@ https://drive.google.com/open?id=15Sbic1JNBe47X5Dfusk-tbNppIhKTpdg&usp=drive_fs[
 //tag::Assignment-069[]
 ===== Thursday, November 14, 2024
 
-Submit 31c and 31d.
+Submit 31c 
+// and 31d.
 
 Study 
 https://drive.google.com/open?id=15Sbic1JNBe47X5Dfusk-tbNppIhKTpdg&usp=drive_fs[Chapter 31 Vocabulary]
