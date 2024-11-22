@@ -1005,6 +1005,8 @@ https://drive.google.com/file/d/15uvTXkiCoT7mx8gSwz6HuonUItohLL_X/view?usp=shari
 //tag::Assignment-075[]
 ===== Friday, November 22, 2024
 
+We completed 32b in class.
+
 //end::Assignment-075[]
 //tag::Quiz-12[]
 Quiz 12
@@ -1029,6 +1031,8 @@ Quiz 12
 
 //tag::Assignment-076[]
 ===== Monday, December 2, 2024
+
+Complete 32c by writing the word that should go in the blank. Then translate the sentence.
 
 //end::Assignment-076[]
 //tag::Assignment-077[]
@@ -1083,7 +1087,7 @@ Quiz 13
 
 //end::Assignment-085[]
 //tag::Test-04[]
-Test 4
+Make sure to know the vocabulary from chapters 31 and 32, the verb charts on pages 331 and 332, how to translate the different froms of verbs, and the noun charts on page 323.
 
 //end::Test-04[]
 //end::Week-21[]
