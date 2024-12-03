@@ -1039,21 +1039,38 @@ Complete 32c by writing the word that should go in the blank. Then translate the
 ===== Tuesday, December 3, 2024
 *Seminar Day*
 
+We completed 32d in class. Give the passive form of each verb.
+
 //end::Assignment-077[]
 //tag::Assignment-078[]
 ===== Wednesday, December 4, 2024
+
+Complete 31b by tranlating the text. Pay attention to verb forms.
+
+Study the vocabulary for 
+https://drive.google.com/open?id=15Sbic1JNBe47X5Dfusk-tbNppIhKTpdg&usp=drive_fs[Chapter 31]
+and
+https://drive.google.com/file/d/15uvTXkiCoT7mx8gSwz6HuonUItohLL_X/view?usp=sharing[Chapter 32]
 
 //end::Assignment-078[]
 //tag::Assignment-079[]
 ===== Thursday, December 5, 2024
 
+Submit 31b.
+
+Study the vocabulary for 
+https://drive.google.com/open?id=15Sbic1JNBe47X5Dfusk-tbNppIhKTpdg&usp=drive_fs[Chapter 31]
+and
+https://drive.google.com/file/d/15uvTXkiCoT7mx8gSwz6HuonUItohLL_X/view?usp=sharing[Chapter 32]
+
 //end::Assignment-079[]
 //tag::Assignment-080[]
 ===== Friday, December 6, 2024
+//31f
 
 //end::Assignment-080[]
 //tag::Quiz-13[]
-Quiz 13
+Quiz over all verb forms that we have studied. 
 
 //end::Quiz-13[]
 //end::Week-20[]
