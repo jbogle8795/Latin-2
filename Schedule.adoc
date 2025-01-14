@@ -1234,14 +1234,25 @@ Study https://drive.google.com/file/d/1AMXiDLSclMxwEZLLXUoAuBRgBQUet1NC/view?usp
 //end::Assignment-096[]
 //tag::Assignment-097[]
 ===== Tuesday, January 14, 2025
+We translated 33c.
 
 //end::Assignment-097[]
 //tag::Assignment-098[]
 ===== Wednesday, January 15, 2025
+Finish translating 33c.
+
+Review https://drive.google.com/file/d/1AMXiDLSclMxwEZLLXUoAuBRgBQUet1NC/view?usp=sharing[Chapter 33 Vocabulary] and perfect passive participles.
+
+Be able to identify a participle, the noun it is modifying, and its gender, number, and case.
 
 //end::Assignment-098[]
 //tag::Assignment-099[]
 ===== Thursday, January 16, 2025
+Submit the translation for 33c
+
+Review https://drive.google.com/file/d/1AMXiDLSclMxwEZLLXUoAuBRgBQUet1NC/view?usp=sharing[Chapter 33 Vocabulary] and perfect passive participles.
+
+Be able to identify a participle, the noun it is modifying, and its gender, number, and case.
 
 //end::Assignment-099[]
 //tag::Assignment-100[]
@@ -1249,7 +1260,8 @@ Study https://drive.google.com/file/d/1AMXiDLSclMxwEZLLXUoAuBRgBQUet1NC/view?usp
 
 //end::Assignment-100[]
 //tag::Quiz-15[]
-Quiz 15
+
+Be able to identify a participle, the noun it is modifying, and its gender, number, and case.
 
 //end::Quiz-15[]
 //end::Week-24[]
