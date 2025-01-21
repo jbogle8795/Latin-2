@@ -1282,13 +1282,23 @@ Review Chapters 18-21
 //tag::Assignment-102[]
 ===== Tuesday, January 21, 2025
 
+We reviewed the last quiz and took a bonus quiz.
+
 //end::Assignment-102[]
 //tag::Assignment-103[]
 ===== Wednesday, January 22, 2025
 
+Study https://drive.google.com/file/d/1EbZn_4aEIs5GkOkcTk074KwAtp1HrAUl/view?usp=sharing[Chapter 34 Vocabulary]
+
+Translate lines 1-12 on page 63.
+
 //end::Assignment-103[]
 //tag::Assignment-104[]
 ===== Thursday, January 23, 2025
+
+Study https://drive.google.com/file/d/1EbZn_4aEIs5GkOkcTk074KwAtp1HrAUl/view?usp=sharing[Chapter 34 Vocabulary]
+
+Submit lines 1-12 on page 63.
 
 //end::Assignment-104[]
 //tag::Assignment-105[]
@@ -1296,7 +1306,8 @@ Review Chapters 18-21
 
 //end::Assignment-105[]
 //tag::Quiz-16[]
-Quiz 16
+
+Quiz over https://drive.google.com/file/d/1EbZn_4aEIs5GkOkcTk074KwAtp1HrAUl/view?usp=sharing[Chapter 34 Vocabulary]
 
 //end::Quiz-16[]
 //end::Week-25[]
