@@ -1322,6 +1322,12 @@ Review Chapters 22-24
 //tag::Assignment-106[]
 ===== Monday, January 27, 2025
 
+Finish 34f
+
+Translate lines 13-18 on page 63
+
+Submit 34f and lines 13-18 on page 63
+
 //end::Assignment-106[]
 //tag::Assignment-107[]
 ===== Tuesday, January 28, 2025
