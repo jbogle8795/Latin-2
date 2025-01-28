@@ -1336,9 +1336,13 @@ Submit 34f and lines 13-18 on page 63
 //tag::Assignment-108[]
 ===== Wednesday, January 29, 2025
 
+Study the endings on page 324.
+
 //end::Assignment-108[]
 //tag::Assignment-109[]
 ===== Thursday, January 30, 2025
+
+Study the endings on page 324.
 
 //end::Assignment-109[]
 //tag::Assignment-110[]
@@ -1347,7 +1351,13 @@ Submit 34f and lines 13-18 on page 63
 //end::Assignment-110[]
 
 //tag::Quiz-17[]
-Quiz 17
+
+Quiz over noun/adjective endings.
+
+Be able to tell the difference between positive, comparative, and superlative forms.
+
+Be able to tell the gender, number, and case of adjectives. 
+
 
 //end::Quiz-17[]
 //end::Week-26[]
