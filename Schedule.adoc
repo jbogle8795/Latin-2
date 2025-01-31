@@ -1373,6 +1373,8 @@ Review Chapters 25-27
 //tag::Assignment-111[]
 ===== Monday, February 3, 2025
 
+Finish and submit the translation from page 59.
+
 //end::Assignment-111[]
 //tag::Assignment-112[]
 ===== Tuesday, February 4, 2025
@@ -1394,7 +1396,8 @@ Review Chapters 25-27
 
 
 //tag::Test-05[]
-Test 5
+
+Study the vocabulary for chapters 33 and 34, perfect passive participles, and positive, comparative, and superlative adjectives.
 
 //end::Test-05[]
 
