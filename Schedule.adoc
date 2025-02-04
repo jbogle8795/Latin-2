@@ -1383,9 +1383,17 @@ Finish and submit the translation from page 59.
 //tag::Assignment-113[]
 ===== Wednesday, February 5, 2025
 
+Find adjectives and participles in 34H. Give the type of adjective it is as well as the gender, number, and case.
+
+You can also look for adjectives from earlier chapters using https://joshualbogle.com/. If you click on the word it should tell you the gender, number, and case of adjectives.
+
 //end::Assignment-113[]
 //tag::Assignment-114[]
 ===== Thursday, February 6, 2025
+
+Submit the adjetives you found on 34H.
+
+Study for your test.
 
 //end::Assignment-114[]
 //tag::Assignment-115[]
