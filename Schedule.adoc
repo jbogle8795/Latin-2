@@ -1473,6 +1473,8 @@ Translate and upload 35D.
 
 Review the differences between positive, comparative, and superlatives adjectives and positive, comparative, and superlative adverbs.
 
+We will have a "Quiz" over adjectives and adverbs. It will replace your lowest quiz grade this quarter. 
+
 //end::Assignment-121[]
 //tag::Assignment-122[]
 ===== Tuesday, February 18, 2025
@@ -1485,6 +1487,8 @@ We will have a "Quiz" over adjectives and adverbs. It will replace your lowest q
 
 //tag::Assignment-123[]
 ===== Wednesday, February 19, 2025
+
+
 
 //end::Assignment-123[]
 //tag::Assignment-124[]
