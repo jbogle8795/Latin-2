@@ -1488,11 +1488,14 @@ We will have a "Quiz" over adjectives and adverbs. It will replace your lowest q
 //tag::Assignment-123[]
 ===== Wednesday, February 19, 2025
 
+Translate 35h
 
 
 //end::Assignment-123[]
 //tag::Assignment-124[]
 ===== Thursday, February 20, 2025
+
+Submit 35h
 
 //end::Assignment-124[]
 //tag::Assignment-125[]
@@ -1517,6 +1520,9 @@ Quiz 19
 
 //tag::Assignment-126[]
 ===== Monday, February 24, 2025
+
+Review the vocabulary for
+https://drive.google.com/file/d/15em-nkZBMPeViYVVdMrrQuaXwfcOeaHs/view?usp=sharing[Chapter 36]
 
 //end::Assignment-126[]
 //tag::Assignment-127[]
