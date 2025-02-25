@@ -1533,9 +1533,21 @@ Chapel Schedule
 //tag::Assignment-128[]
 ===== Wednesday, February 26, 2025
 
+Complete 36b if you did not finish it in class.
+
+Study 
+https://drive.google.com/open?id=1In7EZuBXz32i64V1INtSO9OYYi4kFwpO&usp=drive_fs[Chapter 36 Vocabulary]
+and Roman dates on pages 88-90.
+
+Translate page 87.
+
 //end::Assignment-128[]
 //tag::Assignment-129[]
 ===== Thursday, February 27, 2025
+
+Submit 36b and page 87.
+
+
 
 //end::Assignment-129[]
 //tag::Assignment-130[]
@@ -1543,7 +1555,8 @@ Chapel Schedule
 
 //end::Assignment-130[]
 //tag::Quiz-20[]
-Quiz 20
+
+Quiz over vocabulary and dates.
 
 //end::Quiz-20[]
 //end::Week-30[]
