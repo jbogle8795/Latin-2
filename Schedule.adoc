@@ -1570,6 +1570,8 @@ Quiz over vocabulary and dates.
 //tag::Assignment-131[]
 ===== Monday, March 3, 2025
 
+Finish and submit the translation to the story on page 88.
+
 //end::Assignment-131[]
 //tag::Assignment-132[]
 ===== Tuesday, March 4, 2025
@@ -1589,9 +1591,12 @@ Quiz over vocabulary and dates.
 End of 3rd term
 
 
+
+
 //end::Assignment-135[]
 //tag::Test-06[]
-Test 6
+
+Test over 35 and 36. Study the vocabulary for chapters 35 and 36, adjectives and adverbs, and dates.
 
 //end::Test-06[]
 //end::Week-31[]
