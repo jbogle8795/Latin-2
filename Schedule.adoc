@@ -1629,17 +1629,30 @@ Study https://drive.google.com/file/d/1HRwKjB-WQ6gZwi20p9t7FkS88iztBo2j/view?usp
 //tag::Assignment-138[]
 ===== Wednesday, March 12, 2025
 
+Study https://drive.google.com/file/d/1HRwKjB-WQ6gZwi20p9t7FkS88iztBo2j/view?usp=sharing[Chapter 37 Vocabulary]
+
+Finish the translation on pages 97-98.
+
 //end::Assignment-138[]
 //tag::Assignment-139[]
 ===== Thursday, March 13, 2025
+
+Study https://drive.google.com/file/d/1HRwKjB-WQ6gZwi20p9t7FkS88iztBo2j/view?usp=sharing[Chapter 37 Vocabulary]
+
+Submit the translation on pages 97-98.
 
 //end::Assignment-139[]
 //tag::Assignment-140[]
 ===== Friday, March 14, 2025
 
+//Translate 37b and 37d
+
+//Translate 37e
+
 //end::Assignment-140[]
 //tag::Quiz-21[]
-Quiz 21
+
+Vocabulary Quiz over chapter 37
 
 //end::Quiz-21[]
 //end::Week-32[]
@@ -1655,19 +1668,30 @@ Quiz 21
 //tag::Assignment-141[]
 ===== Monday, March 17, 2025
 
+//Submit 
+
 //end::Assignment-141[]
 //tag::Assignment-142[]
 ===== Tuesday, March 18, 2025
 *Seminar Day*
 
+//Translate The Trojan Horse on pages 106-107
 
 //end::Assignment-142[]
 //tag::Assignment-143[]
 ===== Wednesday, March 19, 2025
 
+//Translate The Trojan Horse on pages 106-107
+
+//Study verb endings inlcuding deponent verbs
+
 //end::Assignment-143[]
 //tag::Assignment-144[]
 ===== Thursday, March 20, 2025
+
+//Submit The Trojan Horse on pages 106-107
+
+//Study verb endings inlcuding deponent verbs
 
 //end::Assignment-144[]
 //tag::Assignment-145[]
@@ -1675,7 +1699,8 @@ Quiz 21
 
 //end::Assignment-145[]
 //tag::Quiz-22[]
-Quiz 22
+
+Quiz over verbs. Be able to identify person, number, tense, and voice. Make sure to know which verbs are deponents. 
 
 //end::Quiz-22[]
 //end::Week-33[]
@@ -1690,9 +1715,17 @@ Quiz 22
 //tag::Assignment-146[]
 ===== Monday, March 24, 2025
 
+//Submit the translation for pages 109-110.
+
+// Study https://drive.google.com/file/d/1KGwA8ttok90o2sWKMqt42MTMVt2z6ZSk/view?usp=sharing[Chapter 38 Vocabulary]
+
+// Study https://drive.google.com/file/d/1UsSeTAU9bB5uLj8UbPUzFsinO_RH_ex0/view?usp=sharing[Numerals]
+
 //end::Assignment-146[]
 //tag::Assignment-147[]
 ===== Tuesday, March 25, 2025
+
+// complete 38c and translate 38b
 
 //end::Assignment-147[]
 //tag::Assignment-148[]
@@ -1708,7 +1741,8 @@ Quiz 22
 
 //end::Assignment-150[]
 //tag::Quiz-23[]
-Quiz 23
+
+//Quiz over numbers and vocabulary
 
 //end::Quiz-23[]
 //end::Week-34[]
@@ -1725,6 +1759,8 @@ Quiz 23
 
 //tag::Assignment-151[]
 ===== Monday, March 31, 2025
+
+//Find some review material
 
 //end::Assignment-151[]
 //tag::Assignment-152[]
