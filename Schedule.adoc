@@ -1645,7 +1645,8 @@ Submit the translation on pages 97-98.
 //tag::Assignment-140[]
 ===== Friday, March 14, 2025
 
-//Translate 37b and 37d
+
+Translate 37b and 1-5 of 37d.
 
 //Translate 37e
 
@@ -1668,7 +1669,13 @@ Vocabulary Quiz over chapter 37
 //tag::Assignment-141[]
 ===== Monday, March 17, 2025
 
-//Submit 
+Submit 37b and 1-5 of 37d.
+
+Review deponent verbs on pages 98-100.
+
+The perfect passive system is covered on page 43.
+
+//Translate 37e
 
 //end::Assignment-141[]
 //tag::Assignment-142[]
@@ -1696,6 +1703,8 @@ Vocabulary Quiz over chapter 37
 //end::Assignment-144[]
 //tag::Assignment-145[]
 ===== Friday, March 21, 2025
+
+//Start the translation for pages 109-110.
 
 //end::Assignment-145[]
 //tag::Quiz-22[]
@@ -1731,9 +1740,15 @@ Quiz over verbs. Be able to identify person, number, tense, and voice. Make sure
 //tag::Assignment-148[]
 ===== Wednesday, March 26, 2025
 
+// complete 38c and translate 38b
+
+
 //end::Assignment-148[]
 //tag::Assignment-149[]
 ===== Thursday, March 27, 2025
+
+// Submit 38c and translate 38b
+
 
 //end::Assignment-149[]
 //tag::Assignment-150[]
@@ -1806,19 +1821,27 @@ Sping Break
 //tag::Assignment-156[]
 ===== Monday, April 14, 2025
 
+//Study https://drive.google.com/file/d/1K4DGg-nmn2QKB4YbKTqe4A4nQ3mKtAqn/view?usp=sharing[Chapter 39 Vocabulary]
+
 //end::Assignment-156[]
 //tag::Assignment-157[]
 ===== Tuesday, April 15, 2025
 
 *Seminar Day*
 
+//Translate pages 117-118
+
 //end::Assignment-157[]
 //tag::Assignment-158[]
 ===== Wednesday, April 16, 2025
 
+//Translate pages 117-118
+
 //end::Assignment-158[]
 //tag::Assignment-159[]
 ===== Thursday, April 17, 2025
+
+//Submit the translations for pages 117-118
 
 //end::Assignment-159[]
 //tag::Assignment-160[]
@@ -1828,7 +1851,8 @@ Sping Break
 
 //end::Assignment-160[]
 //tag::Quiz-24[]
-Quiz 24
+
+No Quiz
 
 //end::Quiz-24[]
 //end::Week-37[]
@@ -1843,25 +1867,36 @@ Quiz 24
 //tag::Assignment-161[]
 ===== Monday, April 21, 2025
 
+//Translate and sumbit 39c on page 121.
+
 //end::Assignment-161[]
 //tag::Assignment-162[]
 ===== Tuesday, April 22, 2025
+
+//Complete 39d
 
 //end::Assignment-162[]
 //tag::Assignment-163[]
 ===== Wednesday, April 23, 2025
 
+//Translate 39f
+
 //end::Assignment-163[]
 //tag::Assignment-164[]
 ===== Thursday, April 24, 2025
+
+//Submit 39d and 39f
 
 //end::Assignment-164[]
 //tag::Assignment-165[]
 ===== Friday, April 25, 2025
 
+//Translate 39g
+
 //end::Assignment-165[]
 //tag::Quiz-25[]
-Quiz 25
+
+Quiz over chapter 39 vocabulary, place clues, and time clues. See pages 118-120 for place clues and pages 121-122 for time clues.
 
 //end::Quiz-25[]
 //end::Week-38[]
@@ -1875,6 +1910,8 @@ Quiz 25
 
 //tag::Assignment-166[]
 ===== Monday, April 28, 2025
+
+//Review 39 activity book???
 
 //end::Assignment-166[]
 //tag::Assignment-167[]
@@ -1896,7 +1933,8 @@ Quiz 25
 
 //end::Assignment-170[]
 //tag::Quiz-26[]
-Quiz 26
+
+Review Quiz
 
 //end::Quiz-26[]
 //end::Week-39[]
@@ -1931,6 +1969,17 @@ Quiz 26
 *1/2 day of testing*
 
 //end::Assignment-175[]
+
+//tag::Test-08[]
+Test over vocabulary chapters 37-39, verbs, numbers, and place/time clues
+
+//end::Test-08[]
+
+
+
+
+
+
 //tag::Quiz-27[]
 Quiz 27
 
@@ -1956,11 +2005,6 @@ Quiz 27
 
 //end::Assignment-177[]
 
-
-//tag::Test-08[]
-Test 8
-
-//end::Test-08[]
 
 
 //tag::Assignment-178[]
