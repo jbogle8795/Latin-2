@@ -1733,11 +1733,11 @@ Quiz over verbs. Be able to identify person, number, tense, and voice. Make sure
 //tag::Assignment-146[]
 ===== Monday, March 24, 2025
 
-//Submit the translation for pages 109-110.
+Submit the translation for page 109.
 
-// Study https://drive.google.com/file/d/1KGwA8ttok90o2sWKMqt42MTMVt2z6ZSk/view?usp=sharing[Chapter 38 Vocabulary]
+Study https://drive.google.com/file/d/1KGwA8ttok90o2sWKMqt42MTMVt2z6ZSk/view?usp=sharing[Chapter 38 Vocabulary]
 
-// Study https://drive.google.com/file/d/1UsSeTAU9bB5uLj8UbPUzFsinO_RH_ex0/view?usp=sharing[Numerals]
+Study https://drive.google.com/file/d/1UsSeTAU9bB5uLj8UbPUzFsinO_RH_ex0/view?usp=sharing[Numerals]
 
 //end::Assignment-146[]
 //tag::Assignment-147[]
