@@ -1692,9 +1692,8 @@ Complete 6-10 of 37d.
 
 Study verbs from the story and 37d. 
 
-//Translate The Trojan Horse on pages 106-107
 
-//Study verb endings inlcuding deponent verbs
+Study verb endings inlcuding deponent verbs
 
 //end::Assignment-143[]
 //tag::Assignment-144[]
@@ -1705,9 +1704,8 @@ Submit 6-10 of 37d.
 Study verbs from the story and 37d. 
 
 
-//Submit The Trojan Horse on pages 106-107
 
-//Study verb endings inlcuding deponent verbs
+Study verb endings inlcuding deponent verbs
 
 //end::Assignment-144[]
 //tag::Assignment-145[]
@@ -1743,7 +1741,7 @@ Study https://drive.google.com/file/d/1UsSeTAU9bB5uLj8UbPUzFsinO_RH_ex0/view?usp
 //tag::Assignment-147[]
 ===== Tuesday, March 25, 2025
 
-// complete 38c and translate 38b
+// translate 110 complete 38c and translate 38b
 
 //end::Assignment-147[]
 //tag::Assignment-148[]
@@ -1763,10 +1761,13 @@ Study https://drive.google.com/file/d/1UsSeTAU9bB5uLj8UbPUzFsinO_RH_ex0/view?usp
 //tag::Assignment-150[]
 ===== Friday, March 28, 2025
 
+//Translate The Trojan Horse on pages 106-107
+
+
 //end::Assignment-150[]
 //tag::Quiz-23[]
 
-//Quiz over numbers and vocabulary
+Quiz over numbers and vocabulary
 
 //end::Quiz-23[]
 //end::Week-34[]
@@ -1783,6 +1784,9 @@ Study https://drive.google.com/file/d/1UsSeTAU9bB5uLj8UbPUzFsinO_RH_ex0/view?usp
 
 //tag::Assignment-151[]
 ===== Monday, March 31, 2025
+
+
+//Submit The Trojan Horse on pages 106-107
 
 //Find some review material
 
