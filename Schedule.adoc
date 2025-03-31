@@ -1763,7 +1763,7 @@ Submit page 110, 38c, and what you completed of 38b in class.
 //tag::Assignment-150[]
 ===== Friday, March 28, 2025
 
-//Translate The Trojan Horse on pages 106-107
+Translate The Trojan Horse on pages 106-107
 
 
 //end::Assignment-150[]
@@ -1788,7 +1788,7 @@ Quiz over numbers and vocabulary
 ===== Monday, March 31, 2025
 
 
-//Submit The Trojan Horse on pages 106-107
+/Submit The Trojan Horse on pages 106-107
 
 //Find some review material
 
@@ -1810,7 +1810,8 @@ Quiz over numbers and vocabulary
 
 //end::Assignment-155[]
 //tag::Test-07[]
-Test 7
+
+Test over chapters 37-38
 
 //end::Test-07[]
 //end::Week-35[]
