@@ -1788,7 +1788,7 @@ Quiz over numbers and vocabulary
 ===== Monday, March 31, 2025
 
 
-/Submit The Trojan Horse on pages 106-107
+Submit The Trojan Horse on pages 106-107
 
 //Find some review material
 
@@ -1800,9 +1800,17 @@ Quiz over numbers and vocabulary
 //tag::Assignment-153[]
 ===== Wednesday, April 2, 2025
 
+Study chapter 37 and 38 vocabulary and verbs forms.
+
+Practice giving the person, number, tense, and voice of verbs using the stories on 97-98, 106-107, and 108-109.
+
 //end::Assignment-153[]
 //tag::Assignment-154[]
 ===== Thursday, April 3, 2025
+
+Study chapter 37 and 38 vocabulary and verbs forms.
+
+Submit the verbs you identified. 
 
 //end::Assignment-154[]
 //tag::Assignment-155[]
@@ -1811,7 +1819,9 @@ Quiz over numbers and vocabulary
 //end::Assignment-155[]
 //tag::Test-07[]
 
-Test over chapters 37-38
+Test over chapters 37-38.
+
+Study the vocaubulary for chapters 37 and 38 as well as verb forms.
 
 //end::Test-07[]
 //end::Week-35[]
