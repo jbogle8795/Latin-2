@@ -1857,19 +1857,19 @@ Study https://drive.google.com/file/d/1K4DGg-nmn2QKB4YbKTqe4A4nQ3mKtAqn/view?usp
 
 *Seminar Day*
 
-//Translate pages 117-118
+Translate pages 117-118
 
 //end::Assignment-157[]
 //tag::Assignment-158[]
 ===== Wednesday, April 16, 2025
 
-//Translate pages 117-118
+Translate pages 117-118
 
 //end::Assignment-158[]
 //tag::Assignment-159[]
 ===== Thursday, April 17, 2025
 
-//Submit the translations for pages 117-118
+Submit the translations for pages 117-118
 
 //end::Assignment-159[]
 //tag::Assignment-160[]
@@ -1895,7 +1895,7 @@ No Quiz
 //tag::Assignment-161[]
 ===== Monday, April 21, 2025
 
-//Translate and sumbit 39c on page 121.
+Translate and sumbit 39c on page 121.
 
 //end::Assignment-161[]
 //tag::Assignment-162[]
