@@ -1901,19 +1901,19 @@ Translate and sumbit 39c on page 121.
 //tag::Assignment-162[]
 ===== Tuesday, April 22, 2025
 
-//Complete 39d
+Complete 39d
 
 //end::Assignment-162[]
 //tag::Assignment-163[]
 ===== Wednesday, April 23, 2025
 
-//Translate 39f
+Translate 39f
 
 //end::Assignment-163[]
 //tag::Assignment-164[]
 ===== Thursday, April 24, 2025
 
-//Submit 39d and 39f
+Submit 39d and 39f
 
 //end::Assignment-164[]
 //tag::Assignment-165[]
