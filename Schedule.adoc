@@ -1919,7 +1919,7 @@ Submit 39d and 39f
 //tag::Assignment-165[]
 ===== Friday, April 25, 2025
 
-//Translate 39g
+Translate 39g
 
 //end::Assignment-165[]
 //tag::Quiz-25[]
@@ -1939,7 +1939,9 @@ Quiz over chapter 39 vocabulary, place clues, and time clues. See pages 118-120 
 //tag::Assignment-166[]
 ===== Monday, April 28, 2025
 
-//Review 39 activity book???
+Translate and upload 
+https://drive.google.com/file/d/1kSxKobPXEZtXeVJ7Myh_khbzVHq0RqGb/view?usp=sharing[this story]
+//Review 38 activity book???
 
 //end::Assignment-166[]
 //tag::Assignment-167[]
