@@ -1932,6 +1932,7 @@ Quiz over chapter 39 vocabulary, place clues, and time clues. See pages 118-120 
 ==== Week 39
 //tag::Week-39[]
 //tag::Weekly-Overview-39[]
+
 39
 
 //end::Weekly-Overview-39[]
@@ -1941,6 +1942,7 @@ Quiz over chapter 39 vocabulary, place clues, and time clues. See pages 118-120 
 
 Translate and upload 
 https://drive.google.com/file/d/1kSxKobPXEZtXeVJ7Myh_khbzVHq0RqGb/view?usp=sharing[this story]
+
 //Review 38 activity book???
 
 //end::Assignment-166[]
@@ -1953,9 +1955,17 @@ https://drive.google.com/file/d/1kSxKobPXEZtXeVJ7Myh_khbzVHq0RqGb/view?usp=shari
 //tag::Assignment-168[]
 ===== Wednesday, April 30, 2025
 
+Translate
+
+https://drive.google.com/file/d/1DDNSOW_0Gxi76mu7OEsd5G-PunAUDpyi/view?usp=sharing[Chapter 39]
+
 //end::Assignment-168[]
 //tag::Assignment-169[]
 ===== Thursday, May 1, 2025
+
+Submit
+
+https://drive.google.com/file/d/1DDNSOW_0Gxi76mu7OEsd5G-PunAUDpyi/view?usp=sharing[Chapter 39]
 
 //end::Assignment-169[]
 //tag::Assignment-170[]
@@ -1964,7 +1974,7 @@ https://drive.google.com/file/d/1kSxKobPXEZtXeVJ7Myh_khbzVHq0RqGb/view?usp=shari
 //end::Assignment-170[]
 //tag::Quiz-26[]
 
-Review Quiz
+Review translation quiz
 
 //end::Quiz-26[]
 //end::Week-39[]
