@@ -1990,6 +1990,10 @@ Review translation quiz
 //tag::Assignment-171[]
 ===== Monday, May 5, 2025
 
+Translate as much of the story of Perseus as you can in an hour.
+
+https://drive.google.com/file/d/1BRuYgzaiyNwpr6MEKQ4OV-V5bbGz6FwR/view?usp=sharing[Perseus]
+
 //end::Assignment-171[]
 //tag::Assignment-172[]
 ===== Tuesday, May 6, 2025
